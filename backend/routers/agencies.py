@@ -121,6 +121,12 @@ def get_agency_works(agency_id: str, month: str = Query(None, description="YYYY-
             "sanction_date": str(w.get(date_col, "")),
             "date": str(w.get(date_col, "")),
             "status": str(w.get("status", "Sanctioned")),
-            "has_image_proof": bool(w.get("has_image_proof", True))
+            # clean_pipeline.py computes has_image_proof but drops it before
+            # writing clean_works.csv, so the old `default=True` meant every
+            # work in the product claimed photographic proof that does not
+            # exist. Report None when the column is genuinely absent.
+            "has_image_proof": (
+                bool(w["has_image_proof"]) if "has_image_proof" in w.index else None
+            ),
         })
     return out

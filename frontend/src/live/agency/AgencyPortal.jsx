@@ -1,154 +1,225 @@
 import React, { useEffect, useState } from 'react';
-import { Building2, FileText, Paperclip, Send, ShieldCheck, Gavel, X } from 'lucide-react';
+import { FileText, Paperclip, Send, ShieldCheck, Check } from 'lucide-react';
 import { fetchCases, submitAgencyResponse } from '../../api/liveClient';
 import { useAuth } from '../auth/AuthContext';
 import CaseStatusBadge from '../shared/CaseStatusBadge';
+import { Panel, PanelHeader, LoadingState, ErrorState, EmptyState, cx } from '../../components/ui';
+import { formatDate } from '../../utils/format';
 
-const MOCK_DOC_OPTIONS = ['bills.pdf', 'completion_certificate.pdf', 'geo_tagged_photos.zip', 'measurement_book.pdf', 'approval_letter.pdf'];
+/** Placeholder document names for the demo submission flow. */
+const DOC_OPTIONS = [
+  'bills.pdf',
+  'completion_certificate.pdf',
+  'geo_tagged_photos.zip',
+  'measurement_book.pdf',
+  'approval_letter.pdf',
+];
 
 export default function AgencyPortal() {
   const { agencyId } = useAuth();
-  const [cases, setCases] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [state, setState] = useState({ cases: [], loading: true, error: null });
   const [text, setText] = useState('');
   const [docs, setDocs] = useState([]);
   const [busy, setBusy] = useState(false);
+  const [submitError, setSubmitError] = useState(null);
 
   async function load() {
-    setLoading(true);
+    setState((s) => ({ ...s, loading: true, error: null }));
     try {
       const data = await fetchCases('ALL');
-      setCases(data || []);
-    } finally {
-      setLoading(false);
+      setState({ cases: data || [], loading: false, error: null });
+    } catch (err) {
+      setState({ cases: [], loading: false, error: err.message });
     }
   }
 
   useEffect(() => { load(); }, []);
 
-  const myCase = cases.find((c) => c.agency_id === agencyId);
+  // The API already scopes results to this agency; this is a display guard.
+  const myCase = state.cases.find((c) => c.agency_id === agencyId) ?? state.cases[0];
 
   function toggleDoc(d) {
     setDocs((prev) => (prev.includes(d) ? prev.filter((x) => x !== d) : [...prev, d]));
   }
 
-  async function handleSubmit() {
-    if (!text.trim()) { alert('Please describe what happened before submitting.'); return; }
+  async function handleSubmit(e) {
+    e.preventDefault();
+    if (!text.trim()) {
+      setSubmitError('Please describe the spending pattern before submitting.');
+      return;
+    }
     setBusy(true);
+    setSubmitError(null);
     try {
       await submitAgencyResponse(myCase.case_id, text, docs);
       setText('');
       setDocs([]);
       await load();
     } catch (err) {
-      alert(err.message);
+      setSubmitError(err.message);
     } finally {
       setBusy(false);
     }
   }
 
+  if (state.loading) return <Panel><LoadingState label="Loading your cases" rows={4} /></Panel>;
+
+  if (state.error) {
+    return (
+      <Panel>
+        <ErrorState
+          title="Unable to load your cases"
+          detail={`The case service did not respond (${state.error}).`}
+          onRetry={load}
+        />
+      </Panel>
+    );
+  }
+
+  if (!myCase) {
+    return (
+      <Panel>
+        <EmptyState
+          icon={ShieldCheck}
+          title="No active cases"
+          description="This agency’s spending is within its expected baseline. Nothing requires a response."
+        />
+      </Panel>
+    );
+  }
+
   return (
-    <div className="space-y-5 animate-fade-in-up">
-      <div>
-        <div className="flex items-center gap-2.5">
-          <div className="p-2 rounded-xl bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-            <Building2 className="w-4 h-4" />
-          </div>
-          <h2 className="page-title text-lg sm:text-xl">Agency Portal</h2>
-        </div>
-        <p className="text-xs text-slate-500 mt-1.5">Submit works, respond to clarification requests, and track your own risk and compliance status.</p>
+    <div className="space-y-3">
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <h2 className="text-lg font-semibold tracking-tight">
+          {myCase.agency_name}
+          <span className="mono text-xs text-content-muted ml-2">{myCase.case_id}</span>
+        </h2>
+        <CaseStatusBadge status={myCase.status} outcome={myCase.resolution?.outcome} overdue={myCase.is_overdue} />
       </div>
 
-      {loading ? (
-        <div className="p-8 text-center text-xs text-slate-500 font-mono">Loading...</div>
-      ) : !myCase ? (
-        <div className="glass-card p-8 text-center">
-          <div className="w-12 h-12 rounded-2xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center mx-auto mb-3">
-            <ShieldCheck className="w-6 h-6 text-emerald-400" />
-          </div>
-          <p className="text-sm text-slate-200 font-semibold">No active cases</p>
-          <p className="text-xs text-slate-500 mt-1">This agency's spending is within its expected baseline.</p>
-        </div>
+      {myCase.status === 'notice_drafted' ? (
+        <Panel>
+          <EmptyState
+            title="Nothing has been sent to you yet"
+            description="A risk event was detected, but the notice is still awaiting administrator approval. No response is required at this stage."
+          />
+        </Panel>
       ) : (
-        <div className="space-y-4">
-          <div className="flex flex-wrap items-center justify-between gap-2">
-            <h3 className="text-sm font-semibold text-slate-100 font-display">{myCase.case_id} &middot; {myCase.agency_name}</h3>
-            <CaseStatusBadge status={myCase.status} outcome={myCase.resolution?.outcome} overdue={myCase.is_overdue} />
-          </div>
-
-          {myCase.status === 'notice_drafted' ? (
-            <div className="glass-card p-4 text-xs text-slate-400 italic">
-              A risk event was detected but the notice is still awaiting Admin approval &mdash; nothing has been sent to you yet.
+        <>
+          <Panel>
+            <PanelHeader
+              title="Notice received"
+              description={
+                myCase.notice.deadline
+                  ? `Response due ${formatDate(myCase.notice.deadline)}`
+                  : undefined
+              }
+            />
+            <div className="p-4 space-y-3">
+              <pre className="whitespace-pre-wrap mono text-xs text-content-secondary well p-3 max-h-72 scroll-y leading-relaxed">
+                {myCase.notice.draft_text}
+              </pre>
+              {myCase.is_overdue && (
+                <p className="text-sm font-medium" style={{ color: 'var(--risk-critical)' }} role="alert">
+                  This response is overdue. Please submit an explanation as soon as possible.
+                </p>
+              )}
             </div>
-          ) : (
-            <>
-              <div className="glass-card p-4 space-y-2">
-                <h4 className="section-label flex items-center gap-1.5">
-                  <FileText className="w-3.5 h-3.5 text-sky-400" /> Notice Received
-                </h4>
-                <pre className="whitespace-pre-wrap text-xs font-mono text-slate-300 bg-surface-sunken border border-surface-border rounded-xl p-3 max-h-72 overflow-y-auto">
-                  {myCase.notice.draft_text}
-                </pre>
-                {myCase.is_overdue && (
-                  <p className="text-xs text-red-400 font-semibold">This response is overdue &mdash; please submit an explanation as soon as possible.</p>
+          </Panel>
+
+          {myCase.agency_response.submitted_at ? (
+            <Panel>
+              <PanelHeader title="Your submitted response" />
+              <div className="p-4 space-y-2.5">
+                <p className="text-base text-content-secondary leading-relaxed">{myCase.agency_response.text}</p>
+                {myCase.agency_response.documents?.length > 0 && (
+                  <ul className="flex flex-wrap gap-1.5">
+                    {myCase.agency_response.documents.map((d) => (
+                      <li key={d} className="chip mono text-2xs">{d}</li>
+                    ))}
+                  </ul>
                 )}
               </div>
-
-              {myCase.agency_response.submitted_at ? (
-                <div className="glass-card p-4 space-y-2">
-                  <h4 className="section-label flex items-center gap-1.5">
-                    <Send className="w-3.5 h-3.5 text-indigo-400" /> Your Submitted Response
-                  </h4>
-                  <p className="text-xs text-slate-300">{myCase.agency_response.text}</p>
-                  <div className="flex flex-wrap gap-1.5">
-                    {myCase.agency_response.documents.map((d) => (
-                      <span key={d} className="px-2 py-0.5 rounded-full bg-surface-raised border border-surface-border text-[10px] text-slate-300 font-mono">{d}</span>
-                    ))}
-                  </div>
-                </div>
-              ) : (
-                <div className="glass-card p-4 space-y-3">
-                  <h4 className="section-label">Submit Your Explanation</h4>
+            </Panel>
+          ) : (
+            <Panel>
+              <PanelHeader
+                title="Submit your explanation"
+                description="Describe what drove the flagged expenditure and attach supporting records."
+              />
+              <form onSubmit={handleSubmit} className="p-4 space-y-3">
+                <div>
+                  <label htmlFor="agency-response" className="label-meta block mb-1.5">Explanation</label>
                   <textarea
+                    id="agency-response"
                     value={text}
                     onChange={(e) => setText(e.target.value)}
-                    rows={4}
-                    placeholder="Explain the spending pattern flagged above..."
-                    className="input-field"
+                    rows={5}
+                    placeholder="For example: three works reached financial completion in the same reporting month…"
+                    className="field h-auto py-2"
                   />
-                  <div>
-                    <p className="text-[11px] text-slate-500 mb-1.5 flex items-center gap-1"><Paperclip className="w-3 h-3" /> Attach supporting documents (mock)</p>
-                    <div className="flex flex-wrap gap-1.5">
-                      {MOCK_DOC_OPTIONS.map((d) => (
+                </div>
+
+                <fieldset>
+                  <legend className="label-meta flex items-center gap-1.5 mb-1.5">
+                    <Paperclip className="w-3 h-3" aria-hidden="true" /> Supporting documents
+                  </legend>
+                  <div className="flex flex-wrap gap-1.5">
+                    {DOC_OPTIONS.map((d) => {
+                      const on = docs.includes(d);
+                      return (
                         <button
                           key={d}
+                          type="button"
+                          aria-pressed={on}
                           onClick={() => toggleDoc(d)}
-                          className={`px-2.5 py-1.5 rounded-lg text-[10px] font-mono border transition-colors duration-200 min-h-[32px] ${
-                            docs.includes(d) ? 'bg-emerald-500/15 text-emerald-300 border-emerald-500/40' : 'bg-surface-raised text-slate-400 border-surface-border hover:text-slate-200 hover:border-surface-borderHover'
-                          }`}
+                          className={cx('chip mono text-2xs transition-colors', on && 'font-semibold')}
+                          style={on ? {
+                            color: 'var(--accent-primary)',
+                            background: 'var(--accent-surface)',
+                            borderColor: 'var(--accent-border)',
+                          } : undefined}
                         >
-                          {docs.includes(d) ? <X className="w-2.5 h-2.5 inline mr-1" /> : null}{d}
+                          {on && <Check className="w-2.5 h-2.5" aria-hidden="true" />}
+                          {d}
                         </button>
-                      ))}
-                    </div>
+                      );
+                    })}
                   </div>
-                  <button disabled={busy} onClick={handleSubmit} className="btn-primary">
-                    <Send className="w-3.5 h-3.5" /> Submit Response
-                  </button>
-                </div>
-              )}
+                </fieldset>
 
-              {myCase.mp_verification.status !== 'pending' && (
-                <div className="glass-card p-4 space-y-1">
-                  <h4 className="section-label flex items-center gap-1.5">
-                    <Gavel className="w-3.5 h-3.5 text-amber-400" /> MP Verification
-                  </h4>
-                  <p className="text-xs text-slate-300 capitalize">{myCase.mp_verification.status.replace('_', ' ')}</p>
-                </div>
-              )}
-            </>
+                {submitError && (
+                  <p
+                    role="alert"
+                    className="text-sm rounded border px-3 py-2"
+                    style={{ color: 'var(--risk-critical)', background: 'var(--risk-critical-surface)', borderColor: 'rgba(242,85,90,0.3)' }}
+                  >
+                    {submitError}
+                  </p>
+                )}
+
+                <button type="submit" disabled={busy} className="btn-accent btn-sm">
+                  <Send className="w-3.5 h-3.5" aria-hidden="true" /> {busy ? 'Submitting…' : 'Submit response'}
+                </button>
+              </form>
+            </Panel>
           )}
-        </div>
+
+          {myCase.mp_verification.status !== 'pending' && (
+            <Panel>
+              <PanelHeader title="MP verification" />
+              <div className="p-4">
+                <p className="text-base text-content-primary capitalize">
+                  {myCase.mp_verification.status.replace(/_/g, ' ')}
+                </p>
+                {myCase.mp_verification.notes && (
+                  <p className="text-sm text-content-secondary mt-1">{myCase.mp_verification.notes}</p>
+                )}
+              </div>
+            </Panel>
+          )}
+        </>
       )}
     </div>
   );

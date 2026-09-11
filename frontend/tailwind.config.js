@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
+// All values below resolve to CSS custom properties declared in src/index.css.
+// Tokens live in exactly one place; nothing here should be a literal colour.
 export default {
   content: [
     "./index.html",
@@ -8,56 +11,101 @@ export default {
   theme: {
     extend: {
       colors: {
-        brand: {
-          50: '#f0f9ff',
-          100: '#e0f2fe',
-          200: '#bae6fd',
-          300: '#7dd3fc',
-          400: '#38bdf8',
-          500: '#0284c7',
-          600: '#0369a1',
-          700: '#075985',
-          800: '#0c4a6e',
-          900: '#082f49',
+        bg: {
+          primary: 'var(--bg-primary)',
+          secondary: 'var(--bg-secondary)',
+          elevated: 'var(--bg-elevated)',
+          sunken: 'var(--bg-sunken)',
+          inset: 'var(--bg-inset)',
+        },
+        content: {
+          primary: 'var(--text-primary)',
+          secondary: 'var(--text-secondary)',
+          muted: 'var(--text-muted)',
+          inverse: 'var(--text-inverse)',
+        },
+        line: {
+          subtle: 'var(--border-subtle)',
+          DEFAULT: 'var(--border-default)',
+          strong: 'var(--border-strong)',
+        },
+        accent: {
+          DEFAULT: 'var(--accent-primary)',
+          hover: 'var(--accent-hover)',
+          dim: 'var(--accent-dim)',
+          surface: 'var(--accent-surface)',
+          border: 'var(--accent-border)',
         },
         risk: {
-          critical: '#ef4444',
-          high: '#f97316',
-          medium: '#eab308',
-          low: '#22c55e',
-          cold: '#94a3b8'
-        },
-        surface: {
-          DEFAULT: '#0c1120',
-          raised: '#121a2e',
-          sunken: '#070a13',
-          border: 'rgba(148,163,184,0.12)',
-          borderHover: 'rgba(148,163,184,0.22)',
+          critical: 'var(--risk-critical)',
+          high: 'var(--risk-high)',
+          medium: 'var(--risk-medium)',
+          low: 'var(--risk-low)',
+          cold: 'var(--risk-cold)',
+          info: 'var(--risk-info)',
         },
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
-        display: ['Sora', 'Inter', 'system-ui', '-apple-system', 'sans-serif'],
-        mono: ['JetBrains Mono', 'Fira Code', 'monospace'],
+        sans: ['Inter', 'system-ui', '-apple-system', 'Segoe UI', 'sans-serif'],
+        mono: ['JetBrains Mono', 'ui-monospace', 'SFMono-Regular', 'monospace'],
+      },
+      fontSize: {
+        // Restrained type scale -- no hero sizes inside application screens.
+        '2xs': ['10px', { lineHeight: '14px', letterSpacing: '0.06em' }],
+        'xs': ['11px', { lineHeight: '16px' }],
+        'sm': ['12px', { lineHeight: '18px' }],
+        'base': ['13px', { lineHeight: '20px' }],
+        'md': ['14px', { lineHeight: '21px' }],
+        'lg': ['16px', { lineHeight: '24px' }],
+        'xl': ['19px', { lineHeight: '26px' }],
+        '2xl': ['23px', { lineHeight: '30px' }],
+        '3xl': ['28px', { lineHeight: '34px' }],
+        '4xl': ['34px', { lineHeight: '40px' }],
+      },
+      spacing: {
+        1: 'var(--space-1)',
+        2: 'var(--space-2)',
+        3: 'var(--space-3)',
+        4: 'var(--space-4)',
+        5: 'var(--space-5)',
+        6: 'var(--space-6)',
+        8: 'var(--space-8)',
+        10: 'var(--space-10)',
+      },
+      borderRadius: {
+        sm: 'var(--radius-sm)',
+        DEFAULT: 'var(--radius-md)',
+        md: 'var(--radius-md)',
+        lg: 'var(--radius-lg)',
       },
       boxShadow: {
-        card: '0 1px 0 0 rgba(255,255,255,0.03) inset, 0 12px 32px -12px rgba(0,0,0,0.55)',
-        'card-hover': '0 1px 0 0 rgba(255,255,255,0.04) inset, 0 20px 44px -14px rgba(0,0,0,0.65)',
-        glow: '0 0 0 1px rgba(56,189,248,0.15), 0 8px 28px -6px rgba(56,189,248,0.35)',
-        'glow-violet': '0 0 0 1px rgba(168,85,247,0.18), 0 8px 28px -6px rgba(168,85,247,0.35)',
-      },
-      backgroundImage: {
-        'brand-gradient': 'linear-gradient(135deg, #38bdf8 0%, #6366f1 55%, #a855f7 100%)',
-        'brand-gradient-soft': 'linear-gradient(135deg, rgba(56,189,248,0.16) 0%, rgba(99,102,241,0.16) 55%, rgba(168,85,247,0.16) 100%)',
+        card: 'var(--shadow-card)',
+        raised: 'var(--shadow-raised)',
+        overlay: 'var(--shadow-overlay)',
       },
       keyframes: {
-        fadeInUp: {
-          '0%': { opacity: '0', transform: 'translateY(8px)' },
-          '100%': { opacity: '1', transform: 'translateY(0)' },
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+        slideInRight: {
+          '0%': { transform: 'translateX(12px)', opacity: '0' },
+          '100%': { transform: 'translateX(0)', opacity: '1' },
+        },
+        shimmer: {
+          '100%': { transform: 'translateX(100%)' },
         },
       },
       animation: {
-        'fade-in-up': 'fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both',
+        'fade-in': 'fadeIn 160ms ease-out both',
+        'slide-in-right': 'slideInRight 200ms cubic-bezier(0.16, 1, 0.3, 1) both',
+      },
+      zIndex: {
+        header: '30',
+        sidebar: '40',
+        drawer: '50',
+        modal: '60',
+        palette: '70',
       },
     },
   },

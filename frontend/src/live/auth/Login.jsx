@@ -1,17 +1,22 @@
 import React, { useState } from 'react';
-import { ShieldCheck, Landmark, Building2, Globe2, Lock, Mail, LogIn, UserPlus } from 'lucide-react';
+import { ShieldCheck, Landmark, Building2, Globe2, Lock, Mail } from 'lucide-react';
 import { useAuth } from './AuthContext';
+import { Panel, SegmentedControl } from '../../components/ui';
 
 const ROLE_HINTS = [
-  { key: 'admin', label: 'Administrator', Icon: ShieldCheck },
-  { key: 'mp', label: 'Member of Parliament', Icon: Landmark },
-  { key: 'agency', label: 'Implementing Agency', Icon: Building2 },
-  { key: 'public', label: 'Public / Citizen', Icon: Globe2 },
+  { key: 'admin', label: 'Administrator', Icon: ShieldCheck, scope: 'Issues notices, resolves cases' },
+  { key: 'mp', label: 'Member of Parliament', Icon: Landmark, scope: 'Verifies within own state' },
+  { key: 'agency', label: 'Implementing agency', Icon: Building2, scope: 'Responds for own agency' },
+  { key: 'public', label: 'Public / citizen', Icon: Globe2, scope: 'Published summaries only' },
 ];
 
+/**
+ * Live Mode sign-in. Authentication behaviour is unchanged -- this component
+ * was restyled onto the new token system only.
+ */
 export default function Login() {
   const { login, signupPublic, error, setError } = useAuth();
-  const [mode, setMode] = useState('login'); // 'login' | 'signup'
+  const [mode, setMode] = useState('login');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [busy, setBusy] = useState(false);
@@ -20,102 +25,112 @@ export default function Login() {
     e.preventDefault();
     setBusy(true);
     try {
-      if (mode === 'login') {
-        await login(email.trim(), password);
-      } else {
-        await signupPublic(email.trim(), password);
-      }
+      if (mode === 'login') await login(email.trim(), password);
+      else await signupPublic(email.trim(), password);
     } catch {
-      // error already set by AuthContext
+      // AuthContext already surfaced a friendly message
     } finally {
       setBusy(false);
     }
   }
 
   return (
-    <div className="max-w-md mx-auto px-4 py-10 space-y-6 animate-fade-in-up">
-      <div className="text-center space-y-3">
-        <div className="w-14 h-14 rounded-2xl bg-brand-gradient flex items-center justify-center mx-auto shadow-glow ring-1 ring-white/10">
-          <ShieldCheck className="w-7 h-7 text-white" />
-        </div>
-        <div>
-          <p className="page-eyebrow">Live Mode</p>
-          <h2 className="page-title text-2xl mt-1">Sign in to continue</h2>
-        </div>
-        <p className="text-xs text-slate-500 max-w-xs mx-auto leading-relaxed">
-          Live Mode carries real case actions, so it's gated behind role-based sign-in.
+    <div className="max-w-md mx-auto px-4 py-10 space-y-4">
+      <div className="space-y-2">
+        <h1 className="text-xl font-semibold tracking-tight">Sign in to Live Mode</h1>
+        <p className="text-sm text-content-muted">
+          Live Mode records real case actions against the audit trail, so access is
+          gated by role.
         </p>
       </div>
 
-      <div className="glass-card p-5 space-y-4">
-        <div className="nav-pill-group w-full">
-          <button
-            onClick={() => { setMode('login'); setError(null); }}
-            className={`nav-pill flex-1 justify-center ${mode === 'login' ? 'nav-pill-active' : ''}`}
-          >
-            <LogIn className="w-3.5 h-3.5" /> Sign In
-          </button>
-          <button
-            onClick={() => { setMode('signup'); setError(null); }}
-            className={`nav-pill flex-1 justify-center ${mode === 'signup' ? 'nav-pill-active' : ''}`}
-          >
-            <UserPlus className="w-3.5 h-3.5" /> Citizen Sign-Up
-          </button>
-        </div>
+      <Panel className="p-4 space-y-4">
+        <SegmentedControl
+          label="Sign-in mode"
+          value={mode}
+          onChange={(m) => { setMode(m); setError(null); }}
+          options={[
+            { value: 'login', label: 'Sign in' },
+            { value: 'signup', label: 'Citizen sign-up' },
+          ]}
+        />
 
-        <form onSubmit={handleSubmit} className="space-y-3.5">
-          <label className="block">
-            <span className="section-label flex items-center gap-1 mb-1.5 normal-case tracking-normal font-semibold text-slate-400"><Mail className="w-3 h-3" /> Email</span>
+        <form onSubmit={handleSubmit} className="space-y-3">
+          <div>
+            <label htmlFor="login-email" className="label-meta flex items-center gap-1.5 mb-1.5">
+              <Mail className="w-3 h-3" aria-hidden="true" /> Email
+            </label>
             <input
+              id="login-email"
               type="email"
               required
+              autoComplete="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="you@example.com"
-              className="input-field"
+              placeholder="you@example.gov.in"
+              className="field"
             />
-          </label>
-          <label className="block">
-            <span className="section-label flex items-center gap-1 mb-1.5 normal-case tracking-normal font-semibold text-slate-400"><Lock className="w-3 h-3" /> Password</span>
+          </div>
+
+          <div>
+            <label htmlFor="login-password" className="label-meta flex items-center gap-1.5 mb-1.5">
+              <Lock className="w-3 h-3" aria-hidden="true" /> Password
+            </label>
             <input
+              id="login-password"
               type="password"
               required
               minLength={6}
+              autoComplete={mode === 'signup' ? 'new-password' : 'current-password'}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              placeholder={mode === 'signup' ? 'At least 6 characters' : '••••••••'}
-              className="input-field"
+              placeholder={mode === 'signup' ? 'At least 6 characters' : ''}
+              className="field"
             />
-          </label>
+          </div>
 
           {error && (
-            <p className="text-xs text-red-300 bg-red-500/10 border border-red-500/25 rounded-lg px-3 py-2">{error}</p>
+            <p
+              role="alert"
+              className="text-sm rounded border px-3 py-2"
+              style={{
+                color: 'var(--risk-critical)',
+                background: 'var(--risk-critical-surface)',
+                borderColor: 'rgba(242,85,90,0.3)',
+              }}
+            >
+              {error}
+            </p>
           )}
 
-          <button type="submit" disabled={busy} className="btn-primary w-full py-2.5">
-            {busy ? 'Please wait...' : mode === 'login' ? 'Sign In' : 'Create Citizen Account'}
+          <button type="submit" disabled={busy} className="btn-accent w-full">
+            {busy ? 'Please wait…' : mode === 'login' ? 'Sign in' : 'Create citizen account'}
           </button>
         </form>
 
         {mode === 'signup' && (
-          <p className="text-[11px] text-slate-500 leading-relaxed border-t border-surface-border pt-3">
-            Citizen sign-up only grants access to the anonymized Public Transparency view.
-            Admin, MP, and Implementing Agency accounts are issued directly by FundWatch and
-            cannot be created here.
+          <p className="text-xs text-content-muted leading-relaxed border-t border-line-subtle pt-3">
+            Citizen sign-up grants access to the published transparency view only.
+            Administrator, MP and implementing-agency accounts are issued directly
+            and cannot be created here.
           </p>
         )}
-      </div>
+      </Panel>
 
-      <div className="glass-card p-4">
-        <p className="section-label mb-3">Who can sign in</p>
-        <div className="grid grid-cols-2 gap-2.5">
-          {ROLE_HINTS.map(({ key, label, Icon }) => (
-            <div key={key} className="flex items-center gap-1.5 text-[11px] text-slate-400 glass-pill px-2.5 py-1.5">
-              <Icon className="w-3.5 h-3.5 text-sky-400 shrink-0" /> {label}
-            </div>
+      <Panel className="p-4">
+        <h2 className="label-meta mb-2.5">Roles and scope</h2>
+        <ul className="space-y-2">
+          {ROLE_HINTS.map(({ key, label, Icon, scope }) => (
+            <li key={key} className="flex items-start gap-2.5">
+              <Icon className="w-3.5 h-3.5 mt-0.5 shrink-0 text-content-muted" aria-hidden="true" />
+              <span className="min-w-0">
+                <span className="block text-sm text-content-secondary">{label}</span>
+                <span className="block text-xs text-content-muted">{scope}</span>
+              </span>
+            </li>
           ))}
-        </div>
-      </div>
+        </ul>
+      </Panel>
     </div>
   );
 }

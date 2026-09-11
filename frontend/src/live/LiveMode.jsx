@@ -10,19 +10,30 @@ import AgencyPortal from './agency/AgencyPortal';
 import MPPortal from './mp/MPPortal';
 import PublicTransparency from './public/PublicTransparency';
 import AuditTimeline from './shared/AuditTimeline';
+import { Panel, PanelHeader, SegmentedControl, LoadingState } from '../components/ui';
+import PageContainer from '../components/layout/PageContainer';
+
+/**
+ * Live Mode.
+ *
+ * Role gating is UNCHANGED from the pre-redesign implementation: the same
+ * `role` checks select the same portals, and every underlying request is still
+ * authorised server-side by require_roles() against a verified Firebase ID
+ * token. This file was restyled, not rewired.
+ */
 
 const ADMIN_TABS = [
-  { key: 'queue', label: 'Clarification Queue', Icon: Inbox },
+  { key: 'queue', label: 'Clarifications', Icon: Inbox },
   { key: 'compliance', label: 'Compliance', Icon: ClipboardCheck },
   { key: 'governance', label: 'Governance', Icon: BarChart3 },
-  { key: 'audit', label: 'Audit Trail', Icon: History },
+  { key: 'audit', label: 'Audit trail', Icon: History },
 ];
 
 const ROLE_META = {
-  admin: { label: 'Administrator', Icon: ShieldCheck },
-  mp: { label: 'Member of Parliament', Icon: Landmark },
-  agency: { label: 'Implementing Agency', Icon: Building2 },
-  public: { label: 'Public / Citizen', Icon: Globe2 },
+  admin: { label: 'Administrator', Icon: ShieldCheck, scope: 'Full oversight' },
+  mp: { label: 'Member of Parliament', Icon: Landmark, scope: 'Constituency verification' },
+  agency: { label: 'Implementing agency', Icon: Building2, scope: 'Own records only' },
+  public: { label: 'Public / citizen', Icon: Globe2, scope: 'Published summaries' },
 };
 
 function SessionBar() {
@@ -32,25 +43,32 @@ function SessionBar() {
   const scopeLabel = role === 'agency' ? agencyId : role === 'mp' ? state : null;
 
   return (
-    <div className="flex items-center justify-between gap-3 glass-card px-3.5 py-2.5 animate-fade-in-up">
+    <div className="flex items-center justify-between gap-3 panel px-3 py-2.5">
       <div className="flex items-center gap-2.5 min-w-0">
-        <div className="w-8 h-8 rounded-lg bg-brand-gradient-soft flex items-center justify-center border border-sky-500/20 shrink-0">
-          <Icon className="w-4 h-4 text-sky-300" />
-        </div>
+        <span
+          className="w-7 h-7 rounded-sm flex items-center justify-center shrink-0 border border-line"
+          style={{ background: 'var(--bg-elevated)' }}
+        >
+          <Icon className="w-3.5 h-3.5" style={{ color: 'var(--accent-primary)' }} aria-hidden="true" />
+        </span>
         <div className="min-w-0">
-          <p className="text-xs font-semibold text-slate-100 truncate">{user.email}</p>
-          <p className="text-[10px] text-slate-500">{meta.label}{scopeLabel ? ` · ${scopeLabel}` : ''}</p>
+          <p className="text-base font-medium text-content-primary truncate">{user.email}</p>
+          <p className="text-xs text-content-muted truncate">
+            {meta.label}
+            <span className="mx-1.5 opacity-40">·</span>
+            {scopeLabel || meta.scope}
+          </p>
         </div>
       </div>
-      <button onClick={logout} className="btn-ghost hover:text-red-300 hover:bg-red-500/10 shrink-0">
-        <LogOut className="w-3.5 h-3.5" /> Logout
+      <button onClick={logout} className="btn-ghost btn-sm shrink-0">
+        <LogOut className="w-3.5 h-3.5" aria-hidden="true" /> Sign out
       </button>
     </div>
   );
 }
 
-function AdminConsole() {
-  const [adminTab, setAdminTab] = useState('queue');
+function AdminConsole({ initialTab = 'queue' }) {
+  const [adminTab, setAdminTab] = useState(initialTab);
   const [selectedCaseId, setSelectedCaseId] = useState(null);
 
   if (selectedCaseId) {
@@ -58,68 +76,58 @@ function AdminConsole() {
   }
 
   return (
-    <>
-      <div className="nav-pill-group w-fit max-w-full overflow-x-auto">
-        {ADMIN_TABS.map(({ key, label, Icon }) => (
-          <button
-            key={key}
-            onClick={() => setAdminTab(key)}
-            className={`nav-pill ${adminTab === key ? 'nav-pill-active' : ''}`}
-          >
-            <Icon className="w-3.5 h-3.5" /> {label}
-          </button>
-        ))}
-      </div>
+    <div className="space-y-3">
+      <SegmentedControl
+        label="Administrator sections"
+        value={adminTab}
+        onChange={setAdminTab}
+        options={ADMIN_TABS.map((t) => ({ value: t.key, label: t.label }))}
+      />
 
-      <div className="animate-fade-in-up">
-        {adminTab === 'queue' && <ClarificationQueue onSelectCase={setSelectedCaseId} />}
-        {adminTab === 'compliance' && <ComplianceReport />}
-        {adminTab === 'governance' && <GovernanceReport />}
-        {adminTab === 'audit' && (
-          <div className="glass-card p-4">
-            <h3 className="section-label mb-3">Full System Audit Trail</h3>
-            <AuditTimeline />
-          </div>
-        )}
-      </div>
-    </>
-  );
-}
-
-function LiveModeContent() {
-  const { user, role, loading } = useAuth();
-
-  if (loading) {
-    return (
-      <div className="p-16 text-center">
-        <div className="w-8 h-8 rounded-xl bg-brand-gradient-soft border border-sky-500/30 flex items-center justify-center mx-auto animate-spin">
-          <ShieldCheck className="w-4 h-4 text-sky-300" />
-        </div>
-        <p className="text-xs text-slate-500 font-mono mt-3">Checking session...</p>
-      </div>
-    );
-  }
-
-  if (!user) {
-    return <Login />;
-  }
-
-  return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
-      <SessionBar />
-
-      {role === 'admin' && <AdminConsole />}
-      {role === 'mp' && <MPPortal />}
-      {role === 'agency' && <AgencyPortal />}
-      {role === 'public' && <PublicTransparency />}
+      {adminTab === 'queue' && <ClarificationQueue onSelectCase={setSelectedCaseId} />}
+      {adminTab === 'compliance' && <ComplianceReport />}
+      {adminTab === 'governance' && <GovernanceReport />}
+      {adminTab === 'audit' && (
+        <Panel>
+          <PanelHeader title="System audit trail" description="Every recorded action, in order" />
+          <AuditTimeline />
+        </Panel>
+      )}
     </div>
   );
 }
 
-export default function LiveMode() {
+function LiveModeContent({ initialTab }) {
+  const { user, role, loading } = useAuth();
+
+  if (loading) {
+    return (
+      <PageContainer>
+        <Panel><LoadingState label="Checking session" rows={3} /></Panel>
+      </PageContainer>
+    );
+  }
+
+  if (!user) return <Login />;
+
+  return (
+    <PageContainer
+      title="Live mode"
+      description="Role-based oversight workflow. Every action below is authorised server-side and written to the audit trail."
+    >
+      <SessionBar />
+      {role === 'admin' && <AdminConsole initialTab={initialTab} />}
+      {role === 'mp' && <MPPortal />}
+      {role === 'agency' && <AgencyPortal />}
+      {role === 'public' && <PublicTransparency />}
+    </PageContainer>
+  );
+}
+
+export default function LiveMode({ initialTab = 'queue' }) {
   return (
     <AuthProvider>
-      <LiveModeContent />
+      <LiveModeContent initialTab={initialTab} />
     </AuthProvider>
   );
 }

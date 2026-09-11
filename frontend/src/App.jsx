@@ -1,159 +1,76 @@
-import React, { useState, useEffect } from 'react';
-import Navbar from './components/Navbar';
-import AnomalyDashboard from './pages/AnomalyDashboard';
-import VisualIntelligence from './pages/VisualIntelligence';
-import AgencyDrilldown from './pages/AgencyDrilldown';
-import InvestigationPanel from './pages/InvestigationPanel';
-import AuditLog from './pages/AuditLog';
-import LiveMode from './live/LiveMode';
-import DatasetUploadModal from './components/DatasetUploadModal';
-import { fetchStats, fetchAnomalies, fetchAgencies } from './api/client';
-import { Shield, Sparkles, Activity, Layers, Database } from 'lucide-react';
+import React, { Suspense, lazy } from 'react';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { WorkspaceProvider } from './app/WorkspaceContext';
+import AppShell from './components/layout/AppShell';
+import PageContainer from './components/layout/PageContainer';
+import { Panel, LoadingState, EmptyState } from './components/ui';
+
+import Overview from './pages/Overview';
+import Anomalies from './pages/Anomalies';
+import Investigation from './pages/Investigation';
+import Agencies from './pages/Agencies';
+import Spending from './pages/Spending';
+import Geography from './pages/Geography';
+import DataQuality from './pages/DataQuality';
+import Dataset from './pages/Dataset';
+
+// Deep analysis pulls in the heavier Recharts surfaces; Live Mode pulls in the
+// Firebase auth tree. Both are split out so the default route stays light.
+const DeepAnalysis = lazy(() => import('./pages/DeepAnalysis'));
+const LiveMode = lazy(() => import('./live/LiveMode'));
+
+function RouteFallback() {
+  return (
+    <PageContainer>
+      <Panel><LoadingState label="Loading view" rows={6} /></Panel>
+    </PageContainer>
+  );
+}
+
+function NotFound() {
+  return (
+    <PageContainer>
+      <Panel>
+        <EmptyState
+          title="This page does not exist"
+          description="The address you followed is not part of the FundWatch workspace."
+          action={<a href="/" className="btn-accent btn-sm">Return to the command centre</a>}
+        />
+      </Panel>
+    </PageContainer>
+  );
+}
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('dashboard');
-  const [stats, setStats] = useState(null);
-  const [anomalies, setAnomalies] = useState([]);
-  const [agencies, setAgencies] = useState([]);
-  const [selectedAnomaly, setSelectedAnomaly] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [isUploadOpen, setIsUploadOpen] = useState(false);
-
-  async function loadAppData() {
-    setLoading(true);
-    try {
-      const [statsData, anomaliesData, agenciesData] = await Promise.all([
-        fetchStats(),
-        fetchAnomalies(),
-        fetchAgencies()
-      ]);
-      setStats(statsData);
-      setAnomalies(anomaliesData || []);
-      setAgencies(agenciesData || []);
-
-      if (anomaliesData && anomaliesData.length > 0) {
-        setSelectedAnomaly(anomaliesData[0]);
-      }
-    } catch (err) {
-      console.error("Failed to load app data", err);
-    } finally {
-      setLoading(false);
-    }
-  }
-
-  useEffect(() => {
-    loadAppData();
-  }, []);
-
-  const handleSelectAnomalyForDrilldown = (anomaly) => {
-    setSelectedAnomaly(anomaly);
-    setActiveTab('drilldown');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
-  const handleInvestigateAnomaly = (anomaly) => {
-    setSelectedAnomaly(anomaly);
-    setActiveTab('investigation');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
-  const handleUploadSuccess = (data) => {
-    loadAppData();
-    setActiveTab('visuals');
-  };
-
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col selection:bg-sky-500 selection:text-white">
-      {/* Header Navbar */}
-      <Navbar
-        activeTab={activeTab}
-        setActiveTab={setActiveTab}
-        stats={stats}
-        onOpenUpload={() => setIsUploadOpen(true)}
-      />
+    <BrowserRouter>
+      <WorkspaceProvider>
+        <Suspense fallback={<RouteFallback />}>
+          <Routes>
+            <Route element={<AppShell />}>
+              <Route index element={<Overview />} />
+              <Route path="anomalies" element={<Anomalies />} />
+              <Route path="investigation" element={<Investigation />} />
+              <Route path="investigation/:anomalyId" element={<Investigation />} />
+              <Route path="agencies" element={<Agencies />} />
+              {/* Agency deep-link resolves through the investigation workspace. */}
+              <Route path="agencies/:agencyId" element={<Agencies />} />
+              <Route path="spending" element={<Spending />} />
+              <Route path="geography" element={<Geography />} />
+              <Route path="data-quality" element={<DataQuality />} />
+              <Route path="deep-analysis" element={<DeepAnalysis />} />
+              <Route path="dataset" element={<Dataset />} />
 
-      {/* Dataset Upload Modal */}
-      <DatasetUploadModal
-        isOpen={isUploadOpen}
-        onClose={() => setIsUploadOpen(false)}
-        onUploadSuccess={handleUploadSuccess}
-      />
+              {/* Live Mode owns its own auth provider and role routing. */}
+              <Route path="live" element={<LiveMode />} />
+              <Route path="cases" element={<LiveMode initialTab="queue" />} />
+              <Route path="audit" element={<LiveMode initialTab="audit" />} />
 
-      {/* Main Content Area */}
-      <main className="flex-1 pb-16">
-        {loading ? (
-          <div className="max-w-7xl mx-auto px-4 py-24 text-center space-y-4">
-            <div className="w-12 h-12 rounded-2xl bg-brand-gradient-soft border border-sky-500/30 flex items-center justify-center mx-auto animate-spin shadow-glow">
-              <Activity className="w-6 h-6 text-sky-300" />
-            </div>
-            <p className="text-sm font-medium text-slate-300">
-              Initializing FundWatch MPLADS Spending Intelligence Engine...
-            </p>
-            <p className="text-xs text-slate-500 font-mono">
-              Running 4-dimension math engine (S1: MAD Z-score, S2: IQR, S3: P2P, S4: Velocity)
-            </p>
-          </div>
-        ) : (
-          <>
-            {activeTab === 'dashboard' && (
-              <AnomalyDashboard
-                anomalies={anomalies}
-                stats={stats}
-                onSelectAnomaly={handleSelectAnomalyForDrilldown}
-                onInvestigate={handleInvestigateAnomaly}
-              />
-            )}
-
-            {activeTab === 'visuals' && (
-              <VisualIntelligence
-                onSelectAnomaly={handleSelectAnomalyForDrilldown}
-              />
-            )}
-
-            {activeTab === 'drilldown' && (
-              <AgencyDrilldown
-                selectedAgency={selectedAnomaly || anomalies[0]}
-                onBack={() => setActiveTab('dashboard')}
-                onInvestigate={handleInvestigateAnomaly}
-              />
-            )}
-
-            {activeTab === 'investigation' && (
-              <InvestigationPanel
-                anomaly={selectedAnomaly || anomalies[0]}
-                allAnomalies={anomalies}
-                onSelectAnomaly={(anom) => setSelectedAnomaly(anom)}
-                onBackToDrilldown={() => setActiveTab('drilldown')}
-              />
-            )}
-
-            {activeTab === 'audit' && (
-              <AuditLog />
-            )}
-
-            {activeTab === 'live' && (
-              <LiveMode />
-            )}
-          </>
-        )}
-      </main>
-
-      {/* Footer */}
-      <footer className="border-t border-surface-border py-6 text-xs text-slate-500">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-2">
-            <Shield className="w-4 h-4 text-sky-400" />
-            <span className="font-display font-semibold text-slate-400">FUNDWATCH</span>
-            <span>— Explainable MPLADS Spending-Anomaly Detection System</span>
-          </div>
-
-          <div className="flex flex-wrap items-center gap-2 text-[11px]">
-            <span className="glass-pill px-2.5 py-1 text-slate-400">MoSPI Problem Statement 10</span>
-            <span className="glass-pill px-2.5 py-1 text-emerald-400/90 font-mono">MAD Z-Score &amp; IQR Fenced</span>
-            <span className="glass-pill px-2.5 py-1 text-sky-400 font-mono">100% Grounded AI Copilot</span>
-          </div>
-        </div>
-      </footer>
-    </div>
+              <Route path="*" element={<NotFound />} />
+            </Route>
+          </Routes>
+        </Suspense>
+      </WorkspaceProvider>
+    </BrowserRouter>
   );
 }

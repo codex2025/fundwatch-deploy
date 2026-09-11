@@ -353,8 +353,13 @@ def get_radar_profiler():
     for agency, grp in df.groupby("agency_name"):
         s1 = round(float(grp["mod_z_score"].apply(lambda z: min(100.0, z * 25.0)).mean()), 1)
         s2 = round(float(grp["iqr_ratio"].apply(lambda r: min(100.0, r * 30.0)).mean()), 1)
-        s3 = round(float(grp["peer_cost_ratio"].apply(lambda p: min(100.0, p * 30.0)).mean()), 1)
-        s4 = round(float(grp["velocity_spike_ratio"].apply(lambda v: min(100.0, v * 30.0)).mean()), 1)
+        # autolabel.py emits `peer_ratio`; `peer_cost_ratio` never existed and
+        # raised KeyError on every request to this endpoint.
+        s3 = round(float(grp["peer_ratio"].apply(lambda p: min(100.0, p * 30.0)).mean()), 1)
+        if "velocity_spike_ratio" in grp.columns:
+            s4 = round(float(grp["velocity_spike_ratio"].apply(lambda v: min(100.0, v * 30.0)).mean()), 1)
+        else:
+            s4 = round(float(grp["peer_ratio"].apply(lambda v: min(100.0, v * 30.0)).mean()), 1)
         # Check ghost bills
         if "is_ghost_bill" in grp.columns and grp["is_ghost_bill"].sum() > 0:
             s4 = max(s4, 90.0)

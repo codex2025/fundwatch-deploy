@@ -45,11 +45,13 @@ def list_anomalies(
         df = df[df["year_month"] == month]
     if search:
         s = search.lower()
-        df = df[
-            df["agency_name"].str.lower().str.contains(s)
-            | df["state"].str.lower().str.contains(s)
-            | df.get("district", pd.Series("", index=df.index)).astype(str).str.lower().str.contains(s)
-        ]
+        mask = (
+            df["agency_name"].astype(str).str.lower().str.contains(s, na=False)
+            | df["state"].astype(str).str.lower().str.contains(s, na=False)
+        )
+        if "district" in df.columns:
+            mask = mask | df["district"].astype(str).str.lower().str.contains(s, na=False)
+        df = df[mask]
 
     df = df.sort_values("risk_score", ascending=False)
 
