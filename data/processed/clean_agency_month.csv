@@ -1,0 +1,2098 @@
+agency_id,agency_name,state,year_month,monthly_amount,work_count,cumulative_amount,work_category
+agy_0001,Alappuzha Municipal Council,Kerala,2015-08,982015.31,3,982015.31,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2015-12,1255696.8199999998,2,2237712.13,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-02,1087931.03,2,3325643.16,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-04,1018608.25,1,4344251.41,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-06,1661275.43,1,6005526.84,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-08,1336190.4,2,7341717.24,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-09,1009026.8799999999,2,8350744.119999999,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-10,1176583.93,2,9527328.049999999,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2016-11,773940.39,1,10301268.44,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-01,1343810.74,3,11645079.18,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-05,1029303.51,3,12674382.69,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-06,1789732.2,1,14464114.89,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-08,743693.48,2,15207808.37,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-09,1084831.46,1,16292639.83,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-10,1327892.8599999999,2,17620532.689999998,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2017-11,817930.12,2,18438462.81,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2018-02,714632.47,2,19153095.28,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2018-03,1234926.76,2,20388022.04,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2018-11,1019066.69,2,21407088.73,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2019-02,933026.19,3,22340114.919999998,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2019-03,1278294.35,2,23618409.27,Health
+agy_0001,Alappuzha Municipal Council,Kerala,2019-05,1078355.23,1,24696764.5,Health
+agy_0002,Chalakudy Municipal Corporation,Kerala,2015-06,2489325.05,1,2489325.05,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2015-07,1561260.03,1,4050585.08,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2015-08,2060873.49,3,6111458.57,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2015-10,963156.97,2,7074615.54,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2015-11,1683903.41,1,8758518.95,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2015-12,2194186.9299999997,2,10952705.879999999,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-01,4480124.92,1,15432830.799999999,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-02,1527550.34,3,16960381.14,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-03,1577011.1600000001,2,18537392.3,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-04,1927884.07,1,20465276.369999997,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-05,2457795.18,2,22923071.55,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-08,2057621.42,2,24980692.97,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-09,1598908.28,2,26579601.25,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2016-12,2208303.23,1,28787904.48,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-01,1086106.06,2,29874010.54,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-02,3026805.06,1,32900815.6,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-03,1948096.69,2,34848912.29,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-04,1933517.37,1,36782429.66,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-05,1988578.8599999999,3,38771008.519999996,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-06,1667894.29,3,40438902.81,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-10,2237808.63,2,42676711.44,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2017-12,2906696.76,1,45583408.2,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-01,1312541.3199999998,2,46895949.519999996,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-05,2287667.56,3,49183617.08,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-06,2541002.58,1,51724619.66,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-08,2395594.0100000002,2,54120213.67,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-09,2376072.4,3,56496286.07,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-10,1573724.52,1,58070010.589999996,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2018-11,2108809.33,3,60178819.92,Water Supply
+agy_0002,Chalakudy Municipal Corporation,Kerala,2019-03,2143696.84,1,62322516.76,Water Supply
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-06,2132057.47,2,2132057.47,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-07,1046830.16,1,3178887.6300000004,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-08,3494368.33,1,6673255.960000001,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-09,2279101.3,2,8952357.26,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-10,2481033.66,3,11433390.92,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-11,2455137.61,1,13888528.530000001,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2015-12,1375671.56,1,15264200.09,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-01,2424348.2,2,17688548.29,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-02,1883614.01,2,19572162.3,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-03,1963914.1,3,21536076.400000002,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-04,3239888.25,3,24775964.65,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-06,1963300.56,3,26739265.21,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-07,851574.58,1,27590839.79,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-08,2048048.13,2,29638887.92,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-09,1387235.95,3,31026123.87,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-10,2031642.07,2,33057765.94,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-11,2036041.63,2,35093807.57,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2016-12,2690243.3200000003,2,37784050.89,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-01,2365195.66,2,40149246.55,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-02,2315219.98,1,42464466.53,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-03,1772947.25,2,44237413.78,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-04,2427647.6799999997,2,46665061.46,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-05,1572882.68,1,48237944.14,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-06,2138703.91,2,50376648.05,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-07,1683151.39,1,52059799.44,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-08,1804634.84,3,53864434.28,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-10,1920236.77,1,55784671.05,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-11,2430394.05,2,58215065.1,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2017-12,1861362.4300000002,2,60076427.53,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-01,1239445.52,1,61315873.05,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-02,2173523.4,2,63489396.45,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-03,2128999.55,2,65618396.0,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-04,1598330.12,1,67216726.12,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-05,1618759.41,2,68835485.53,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-06,2154012.1,1,70989497.63,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-07,2985329.51,1,73974827.14,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-08,1608500.71,2,75583327.85,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-09,2757750.9,2,78341078.75,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-10,2476566.04,3,80817644.79,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-11,2282638.15,2,83100282.94,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2018-12,2136644.86,1,85236927.8,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2019-02,3244625.72,1,88481553.52,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2019-03,3238609.5,3,91720163.02,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2019-04,1500680.46,3,93220843.48,Public Amenities
+agy_0003,Ernakulam Rural Development Agency,Kerala,2019-05,2047179.4300000002,2,95268022.91,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2015-10,1673636.27,2,1673636.27,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2016-06,1357767.4700000002,2,3031403.74,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2017-11,1795786.79,1,4827190.53,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2018-01,808418.11,2,5635608.640000001,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2018-05,1014112.07,1,6649720.71,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2018-07,1087363.15,3,7737083.86,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2018-11,1642220.44,3,9379304.3,Public Amenities
+agy_0004,Ernakulam Zilla Parishad,Kerala,2018-12,1539508.33,3,10918812.63,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-06,1961470.65,2,1961470.65,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-07,1382174.58,1,3343645.23,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-08,1338444.3699999999,3,4682089.6,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-09,2052492.9900000002,3,6734582.59,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-10,1062654.07,3,7797236.66,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-11,876083.14,1,8673319.8,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2015-12,1388568.38,1,10061888.18,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-01,951320.26,1,11013208.44,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-02,1731964.72,3,12745173.16,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-03,1497507.0,1,14242680.16,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-04,1624415.95,2,15867096.11,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-05,1709569.71,1,17576665.82,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-06,1571135.6400000001,2,19147801.46,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-07,1342897.77,3,20490699.23,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-08,1769252.38,2,22259951.61,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-09,1715547.85,1,23975499.46,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-10,1309949.71,1,25285449.17,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-11,1266594.6600000001,2,26552043.830000002,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2016-12,1762186.3900000001,2,28314230.22,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-01,2041973.66,3,30356203.88,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-02,1360321.67,1,31716525.55,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-03,1426127.22,3,33142652.77,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-04,1334567.55,3,34477220.32,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-05,2578962.89,1,37056183.21,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-06,836310.57,1,37892493.78,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-07,1378907.75,3,39271401.53,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-08,1356900.3399999999,3,40628301.87,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-09,1594996.21,2,42223298.08,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-10,1487916.71,3,43711214.79,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-11,1402820.3399999999,3,45114035.13,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2017-12,1153894.59,1,46267929.72,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-01,1929311.4000000001,3,48197241.12,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-02,1376429.78,2,49573670.9,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-03,1064417.12,3,50638088.02,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-04,1415040.58,3,52053128.6,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-05,1396521.74,2,53449650.34,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-06,878058.77,1,54327709.11,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-07,1227509.09,2,55555218.2,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-08,1443874.14,1,56999092.34,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-09,1467441.29,1,58466533.63,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-10,1508762.98,1,59975296.61,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-11,1596585.5,3,61571882.11,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2018-12,1265101.8900000001,3,62836984.0,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2019-01,779768.47,3,63616752.47,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2019-02,1152255.52,1,64769007.99,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2019-03,1288852.73,3,66057860.72,Public Amenities
+agy_0005,Idukki Nagar Panchayat,Kerala,2019-04,1383105.88,2,67440966.6,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2015-07,1519473.61,1,1519473.61,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2015-10,875749.5800000001,3,2395223.1900000004,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2016-03,1066385.93,1,3461609.12,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2016-08,1395376.55,1,4856985.67,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2016-12,1161666.0899999999,2,6018651.76,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2017-01,1765891.35,3,7784543.11,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2018-02,1387010.9100000001,3,9171554.02,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2018-03,752070.07,1,9923624.09,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2018-07,705237.43,1,10628861.52,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2018-08,1560478.1600000001,2,12189339.68,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2018-10,1288580.3,2,13477919.98,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2018-12,660397.8,1,14138317.780000001,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2019-01,1583816.4500000002,2,15722134.23,Public Amenities
+agy_0006,Idukki Rural Development Agency,Kerala,2019-04,2038083.17,1,17760217.400000002,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2015-11,1906127.09,3,1906127.09,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2016-06,1767743.71,1,3673870.8,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2016-07,1515898.5,3,5189769.3,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2016-08,1974962.85,3,7164732.15,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2017-02,2115963.86,1,9280696.01,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2017-04,1556374.35,3,10837070.36,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2017-06,1710496.92,1,12547567.28,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2017-09,1514588.99,3,14062156.27,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2018-03,1756600.8800000001,3,15818757.15,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2018-04,661133.56,1,16479890.71,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2018-06,902761.92,1,17382652.63,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2018-07,1547999.2000000002,2,18930651.83,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2019-02,1359581.75,1,20290233.58,Public Amenities
+agy_0007,Kannur Gram Panchayat,Kerala,2019-04,1116595.66,1,21406829.24,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2015-06,801789.86,1,801789.86,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2015-07,1113991.62,2,1915781.48,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2015-09,1792308.62,2,3708090.1,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2015-11,2364602.68,1,6072692.78,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2015-12,1526716.9,2,7599409.68,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2016-01,2279322.64,1,9878732.32,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2016-05,2401798.7800000003,2,12280531.100000001,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2016-07,1917183.7,1,14197714.8,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2016-08,1426854.35,3,15624569.15,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2016-09,1698194.8499999999,3,17322764.0,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2016-12,1735008.19,2,19057772.19,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2017-03,1636480.8,3,20694252.990000002,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2017-06,1668321.1,3,22362574.09,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2017-08,1863445.68,2,24226019.77,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2017-09,1298586.03,3,25524605.8,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2017-10,1847717.93,2,27372323.73,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2018-03,2076015.71,1,29448339.44,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2018-04,1321076.3199999998,2,30769415.76,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2018-06,1686273.2,3,32455688.96,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2018-09,1672183.6800000002,2,34127872.64,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2018-11,1923514.1,3,36051386.74,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2018-12,1579935.21,3,37631321.95,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2019-01,1746116.05,1,39377438.0,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2019-02,1526736.47,3,40904174.47,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2019-03,1759271.89,1,42663446.36,Public Amenities
+agy_0008,Kannur Public Works Department,Kerala,2019-05,2715911.84,2,45379358.2,Public Amenities
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2016-01,1240229.1600000001,2,1240229.1600000001,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2016-03,947037.14,2,2187266.3000000003,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2017-01,795830.04,1,2983096.3400000003,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2017-05,1625176.4,1,4608272.74,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2018-02,1897765.6,2,6506038.34,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2018-06,2215234.8,1,8721273.14,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2018-08,2016666.79,3,10737939.93,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2018-11,1290839.26,3,12028779.19,Health
+agy_0009,Kasaragod Panchayat Samiti,Kerala,2018-12,1533890.29,3,13562669.48,Health
+agy_0010,Kasaragod Rural Development Agency,Kerala,2015-06,1211564.45,2,1211564.45,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2015-09,1186144.2200000002,3,2397708.67,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2015-12,1228087.68,2,3625796.35,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-01,1194222.49,2,4820018.84,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-03,635886.7,1,5455905.54,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-04,835662.69,3,6291568.23,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-05,982786.28,3,7274354.51,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-08,1183721.58,3,8458076.09,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-10,1409740.68,2,9867816.77,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2016-12,901976.87,3,10769793.64,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2017-01,1445959.4,1,12215753.04,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2017-02,1012027.63,2,13227780.67,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2017-03,1488761.85,2,14716542.52,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2017-04,1657050.69,1,16373593.21,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2017-05,1197806.51,2,17571399.72,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2017-10,1454931.8900000001,2,19026331.61,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-01,558305.27,1,19584636.88,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-04,837102.53,1,20421739.41,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-07,1623804.63,1,22045544.04,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-08,1081620.06,3,23127164.1,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-09,1398274.63,2,24525438.73,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-11,2336188.9,2,26861627.63,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2018-12,1452798.7000000002,3,28314426.33,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2019-01,1378553.58,1,29692979.91,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2019-02,987886.94,3,30680866.85,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2019-03,965318.22,1,31646185.07,Irrigation
+agy_0010,Kasaragod Rural Development Agency,Kerala,2019-04,979105.55,1,32625290.62,Irrigation
+agy_0011,Kasaragod Panch. Samiti,Kerala,2016-03,346399.22,1,346399.22,Education
+agy_0011,Kasaragod Panch. Samiti,Kerala,2019-01,1733699.93,1,2080099.15,Education
+agy_0012,Kollam Rural Development Agency,Kerala,2015-07,1054179.71,1,1054179.71,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2015-09,1818060.6300000001,3,2872240.34,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2015-11,1528856.14,3,4401096.48,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2015-12,1294238.52,2,5695335.0,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-01,1104227.41,1,6799562.41,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-02,1057059.1300000001,3,7856621.54,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-03,1185740.0,2,9042361.54,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-04,1384844.94,2,10427206.48,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-05,981559.64,1,11408766.12,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-06,1443962.95,1,12852729.07,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-07,1065306.95,3,13918036.02,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-09,1420205.4300000002,3,15338241.45,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-10,890395.24,1,16228636.69,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2016-12,1286080.99,2,17514717.68,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-01,1533303.19,3,19048020.87,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-02,732808.83,1,19780829.7,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-04,1349959.79,2,21130789.49,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-05,1955317.9,2,23086107.39,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-06,1788059.6400000001,2,24874167.03,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-07,1239227.0299999998,3,26113394.06,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-09,1540378.91,1,27653772.97,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-11,1528172.96,2,29181945.93,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2017-12,1786143.1400000001,2,30968089.07,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-01,1047893.29,3,32015982.36,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-02,1517800.78,1,33533783.14,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-03,2033187.46,1,35566970.6,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-05,1680970.58,3,37247941.18,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-07,908797.69,3,38156738.87,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-10,1920992.47,2,40077731.339999996,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-11,1365142.19,2,41442873.53,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2018-12,1641195.06,3,43084068.589999996,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2019-02,1603402.87,1,44687471.46,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2019-03,1202162.97,3,45889634.43,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2019-04,1278868.35,1,47168502.78,Health
+agy_0012,Kollam Rural Development Agency,Kerala,2019-05,1446614.0299999998,2,48615116.81,Health
+agy_0013,Kollam Zilla Parishad,Kerala,2015-06,1212097.24,3,1212097.24,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2015-08,1539054.2,3,2751151.44,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2015-09,2143384.08,2,4894535.52,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2015-11,2794098.91,4,7688634.43,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2015-12,1090130.2,2,8778764.63,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-01,1559504.44,1,10338269.07,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-02,3450801.25,6,13789070.32,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-03,3560743.04,3,17349813.36,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-04,1476546.49,3,18826359.85,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-05,1273534.1300000001,2,20099893.98,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-06,1863879.06,3,21963773.04,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-07,1253382.89,1,23217155.93,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-08,5134949.27,2,28352105.2,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-09,1198001.6,2,29550106.8,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-10,1871896.9300000002,2,31422003.73,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-11,3197813.87,5,34619817.6,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2016-12,840581.13,1,35460398.730000004,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-01,789650.3999999999,3,36250049.13,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-02,1835293.68,2,38085342.81,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-03,1122403.77,2,39207746.58,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-04,2576775.16,6,41784521.74,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-05,1198454.26,2,42982976.0,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-06,1138715.8,1,44121691.8,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-07,842175.9299999999,2,44963867.730000004,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-08,3882363.69,3,48846231.42,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-09,1794786.97,2,50641018.39,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2017-12,1394132.02,2,52035150.410000004,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-01,2120749.61,3,54155900.02,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-02,2304161.29,3,56460061.31,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-03,2456676.77,1,58916738.08,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-05,2960762.0999999996,4,61877500.18,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-08,1409452.92,2,63286953.1,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-09,5023973.41,4,68310926.51,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-10,2202720.31,1,70513646.82,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-11,927105.25,3,71440752.07,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2018-12,3137438.25,4,74578190.32,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2019-01,1209382.56,2,75787572.88,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2019-02,3393754.93,2,79181327.81,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2019-04,3366052.7,4,82547380.51,Public Amenities
+agy_0013,Kollam Zilla Parishad,Kerala,2019-05,1603917.53,1,84151298.04,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2015-07,1558083.4,2,1558083.4,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2015-08,1942821.5,3,3500904.9,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2015-10,2029623.36,3,5530528.26,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2015-11,2185826.64,3,7716354.9,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2015-12,1350695.85,1,9067050.75,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-01,755557.75,2,9822608.5,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-03,1680387.69,3,11502996.190000001,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-04,2446056.21,3,13949052.4,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-05,1745351.3599999999,2,15694403.76,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-07,1551353.46,1,17245757.22,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-08,966138.82,1,18211896.04,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-09,2055915.91,1,20267811.95,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-10,1495075.3599999999,2,21762887.31,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2016-12,2013812.98,1,23776700.29,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-01,1120076.38,2,24896776.67,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-02,383320.05,1,25280096.72,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-03,2265440.87,1,27545537.59,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-04,1840081.04,3,29385618.63,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-05,2587048.8,3,31972667.43,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-06,1745489.05,1,33718156.48,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-08,13529556.61,3,47247713.09,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-09,2587633.89,2,49835346.98,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-10,1718876.1400000001,2,51554223.12,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2017-12,1525536.8900000001,2,53079760.01,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-01,993039.09,2,54072799.1,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-02,2287665.6100000003,2,56360464.71,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-03,1358070.11,1,57718534.82,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-04,1466020.1800000002,2,59184555.0,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-06,2631946.0999999996,3,61816501.1,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-08,1801245.57,2,63617746.67,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-10,1068923.73,2,64686670.4,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2018-12,2889766.3600000003,2,67576436.76,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2019-01,1979461.0,2,69555897.76,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2019-02,2048656.29,2,71604554.05,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2019-03,383712.3,1,71988266.35,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2019-04,1594470.66,2,73582737.01,Public Amenities
+agy_0014,Kottayam Panchayat Samiti,Kerala,2019-05,2007826.5899999999,3,75590563.6,Public Amenities
+agy_0015,Kottayam Panch. Samiti,Kerala,2015-07,317165.05,1,317165.05,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2016-01,1940968.82,1,2258133.87,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2016-08,1776915.4,1,4035049.27,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2016-10,447702.3,1,4482751.57,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2017-01,556168.23,1,5038919.8,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2017-02,2068613.76,2,7107533.5600000005,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2017-07,2007842.48,1,9115376.04,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2017-11,1447005.08,1,10562381.120000001,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2018-01,267849.48,1,10830230.6,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2018-04,573869.3,1,11404099.9,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2019-02,498977.42,1,11903077.32,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2019-03,1047206.6099999999,2,12950283.93,Roads
+agy_0015,Kottayam Panch. Samiti,Kerala,2019-04,628264.07,1,13578548.0,Roads
+agy_0016,Kozhikode District Authority,Kerala,2015-11,2114386.3200000003,2,2114386.3200000003,Construction
+agy_0016,Kozhikode District Authority,Kerala,2016-02,1378521.03,2,3492907.3500000006,Construction
+agy_0016,Kozhikode District Authority,Kerala,2016-04,1558887.93,1,5051795.28,Construction
+agy_0016,Kozhikode District Authority,Kerala,2016-05,3020259.8600000003,2,8072055.140000001,Construction
+agy_0016,Kozhikode District Authority,Kerala,2016-07,1067200.02,1,9139255.16,Construction
+agy_0016,Kozhikode District Authority,Kerala,2016-09,1653681.97,3,10792937.13,Construction
+agy_0016,Kozhikode District Authority,Kerala,2017-01,2998070.54,2,13791007.670000002,Construction
+agy_0016,Kozhikode District Authority,Kerala,2018-04,28184197.310000002,5,41975204.980000004,Construction
+agy_0016,Kozhikode District Authority,Kerala,2018-05,1301763.53,1,43276968.510000005,Construction
+agy_0016,Kozhikode District Authority,Kerala,2018-08,2122917.07,2,45399885.580000006,Construction
+agy_0016,Kozhikode District Authority,Kerala,2018-12,1599591.06,2,46999476.64,Construction
+agy_0016,Kozhikode District Authority,Kerala,2019-01,1155929.4300000002,2,48155406.07000001,Construction
+agy_0017,Kozhikode Public Works Department,Kerala,2015-10,1329739.16,1,1329739.16,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2016-01,1868028.38,1,3197767.54,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2016-04,1379682.29,2,4577449.83,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2017-04,1592347.0,3,6169796.83,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2017-11,1536547.04,2,7706343.87,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2017-12,1645357.3199999998,3,9351701.19,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2018-03,1160841.85,2,10512543.04,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2018-06,2765790.52,2,13278333.559999999,Roads
+agy_0017,Kozhikode Public Works Department,Kerala,2018-10,2383123.5700000003,2,15661457.129999999,Roads
+agy_0018,Kozhikode Zilla Parishad,Kerala,2015-06,1565240.23,2,1565240.23,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2015-07,1858008.85,3,3423249.08,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2015-08,3135605.05,2,6558854.13,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2015-09,587645.82,1,7146499.95,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2015-12,1915522.73,2,9062022.68,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2016-01,1151733.69,2,10213756.37,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2016-03,1756505.04,3,11970261.41,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2016-07,2486018.42,2,14456279.83,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2016-09,1607335.42,1,16063615.25,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2016-10,1748875.4500000002,3,17812490.7,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2016-12,1973978.25,2,19786468.95,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2017-01,2200422.8,3,21986891.75,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2017-03,3783268.48,2,25770160.23,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2017-04,1997947.63,1,27768107.86,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2017-07,1436782.87,3,29204890.73,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2017-10,2529766.52,2,31734657.25,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-01,3226242.35,2,34960899.6,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-02,2614179.5700000003,2,37575079.17,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-03,1613015.03,2,39188094.2,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-04,1690806.03,3,40878900.23,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-05,503770.37,1,41382670.6,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-06,3011027.99,3,44393698.59,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-07,1595201.53,1,45988900.12,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-08,1429198.32,1,47418098.44,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-09,1652623.15,3,49070721.59,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-10,1196638.25,1,50267359.84,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2018-11,1988603.0699999998,3,52255962.91,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2019-01,2255691.93,1,54511654.84,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2019-02,1224524.8399999999,3,55736179.68,Health
+agy_0018,Kozhikode Zilla Parishad,Kerala,2019-03,1688360.95,3,57424540.63,Health
+agy_0019,Vadakara Municipal Council,Kerala,2015-06,1578459.04,3,1578459.04,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2015-09,1579431.19,3,3157890.23,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2016-03,1269906.87,3,4427797.1,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2016-04,1256440.77,1,5684237.87,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2016-05,1308413.27,1,6992651.140000001,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2016-07,1669423.66,1,8662074.8,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2016-09,1467693.32,3,10129768.120000001,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2017-02,1379985.17,1,11509753.29,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2017-03,1181894.3399999999,2,12691647.629999999,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2017-08,661223.69,1,13352871.32,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2017-09,2276664.79,1,15629536.11,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2017-12,1446235.2,3,17075771.31,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-01,2169894.34,3,19245665.65,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-03,1919376.34,3,21165041.99,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-04,1316487.98,1,22481529.97,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-06,959895.47,1,23441425.439999998,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-07,1929754.82,3,25371180.259999998,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-08,1668147.3199999998,2,27039327.58,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-09,1049850.93,3,28089178.509999998,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-10,1452974.83,2,29542153.34,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2018-11,1469243.88,3,31011397.22,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2019-01,1725320.56,2,32736717.78,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2019-02,1352070.3399999999,2,34088788.12,Public Amenities
+agy_0019,Vadakara Municipal Council,Kerala,2019-03,1034253.64,3,35123041.76,Public Amenities
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-06,1132039.63,3,1132039.63,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-07,917482.76,1,2049522.39,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-08,672365.03,3,2721887.42,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-09,998072.01,3,3719959.4299999997,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-10,782816.26,2,4502775.6899999995,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-11,549101.54,1,5051877.23,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2015-12,1532926.03,3,6584803.26,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-01,1494060.63,3,8078863.89,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-03,1106767.0,1,9185630.89,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-04,1294370.53,1,10480001.42,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-05,412580.94,2,10892582.36,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-07,918594.59,3,11811176.95,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-08,1173038.3399999999,3,12984215.29,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-09,1528052.9,2,14512268.19,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-11,1902251.89,1,16414520.08,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2016-12,944964.14,2,17359484.22,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-01,884583.6,2,18244067.82,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-02,1145668.58,1,19389736.4,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-03,1244894.83,2,20634631.23,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-04,1239860.81,1,21874492.04,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-05,886203.97,3,22760696.009999998,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-06,1143034.83,1,23903730.84,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-08,1358391.65,1,25262122.49,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-09,1125620.73,1,26387743.22,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-10,1146236.1199999999,2,27533979.34,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-11,632787.8,2,28166767.14,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2017-12,1140890.21,2,29307657.35,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-02,858557.64,3,30166214.99,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-03,843793.34,2,31010008.33,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-05,991339.66,2,32001347.99,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-07,988352.5900000001,2,32989700.58,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-08,1260645.24,3,34250345.82,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-09,1075820.8599999999,2,35326166.68,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-10,1056395.3,2,36382561.98,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2018-11,942061.25,1,37324623.23,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2019-01,1500122.76,3,38824745.99,Roads
+agy_0020,Malappuram Gram Panchayat,Kerala,2019-04,1206829.94,1,40031575.93,Roads
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-06,3054367.0999999996,2,3054367.0999999996,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-07,2236939.62,3,5291306.72,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-08,1418134.1,1,6709440.82,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-09,3809532.49,3,10518973.31,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-10,2130003.75,2,12648977.06,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-11,2001835.4700000002,2,14650812.530000001,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2015-12,1996709.56,2,16647522.09,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-01,2410486.54,2,19058008.63,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-02,1640620.3,1,20698628.93,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-03,3062741.18,1,23761370.11,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-05,1554240.01,3,25315610.12,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-07,1951821.03,2,27267431.15,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-08,2109236.47,3,29376667.62,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-09,2358313.93,3,31734981.55,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-11,1273149.8,1,33008131.35,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2016-12,2399021.64,3,35407152.99,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-01,1671292.55,2,37078445.54,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-04,1865767.69,3,38944213.230000004,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-06,2226693.44,3,41170906.67,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-07,2772091.39,3,43942998.06,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-08,1742099.98,2,45685098.04,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-09,1445685.77,1,47130783.81,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-10,1777616.9300000002,2,48908400.74,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-11,2938772.0300000003,5,51847172.77,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2017-12,1826021.53,1,53673194.300000004,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-02,1214874.44,2,54888068.74,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-03,2130805.45,3,57018874.19,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-06,3667963.39,2,60686837.58,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-07,3995602.62,3,64682440.2,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-08,1752807.81,1,66435248.010000005,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-09,2327508.52,1,68762756.53,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-10,2367566.07,1,71130322.6,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2018-11,2157235.86,1,73287558.46000001,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2019-01,1847490.03,2,75135048.49,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2019-02,2624783.39,2,77759831.88,Public Amenities
+agy_0021,Malappuram Municipal Corporation,Kerala,2019-04,1960090.46,3,79719922.34,Public Amenities
+agy_0022,Malappuram Rural Development Agency,Kerala,2015-06,1823936.29,1,1823936.29,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2015-08,2006497.3,1,3830433.59,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2015-09,811149.21,2,4641582.8,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2015-10,1027674.51,2,5669257.3100000005,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2015-12,1680126.41,3,7349383.72,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-01,1237086.28,2,8586470.0,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-02,2250511.97,1,10836981.97,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-03,1193176.62,2,12030158.59,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-04,1921837.3900000001,2,13951995.98,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-05,1924657.78,2,15876653.76,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-06,1477554.3199999998,3,17354208.080000002,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-07,707883.68,1,18062091.76,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-08,1971907.62,3,20033999.38,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-09,1070924.3900000001,2,21104923.77,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-10,851880.51,1,21956804.28,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-11,1496654.13,2,23453458.41,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2016-12,1497431.4300000002,2,24950889.84,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-01,1657289.63,3,26608179.47,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-02,1548739.12,2,28156918.59,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-03,2209037.42,2,30365956.01,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-04,1184789.57,1,31550745.580000002,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-05,874610.72,1,32425356.3,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-06,2327630.86,3,34752987.160000004,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-07,1414684.42,2,36167671.58,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-08,1054291.6099999999,2,37221963.19,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-09,1217346.32,3,38439309.51,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-10,769664.23,2,39208973.74,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-11,1592316.44,3,40801290.18,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2017-12,1837952.85,1,42639243.03,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-01,1720639.75,2,44359882.78,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-02,1804314.2,2,46164196.980000004,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-03,1739915.41,1,47904112.39,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-04,1718626.07,3,49622738.46,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-05,1390118.13,3,51012856.59,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-06,1285076.79,3,52297933.38,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-07,1918245.73,2,54216179.11,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-08,1434404.05,2,55650583.160000004,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-09,1673288.1099999999,3,57323871.27,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-10,1901137.49,2,59225008.76,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-11,2157173.43,1,61382182.19,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2018-12,1290986.6400000001,3,62673168.83,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2019-01,1098099.2,2,63771268.03,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2019-02,1021629.58,2,64792897.61,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2019-03,1161646.56,3,65954544.17,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2019-04,878332.77,1,66832876.94,Irrigation
+agy_0022,Malappuram Rural Development Agency,Kerala,2019-05,1469771.25,1,68302648.19,Irrigation
+agy_0023,Palakkad Municipal Corporation,Kerala,2015-07,2610771.67,2,2610771.67,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2015-08,2047289.5699999998,3,4658061.24,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2015-09,1649764.88,3,6307826.119999999,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2015-11,1904813.58,1,8212639.699999999,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2016-01,1394595.87,1,9607235.57,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2016-02,1981430.39,3,11588665.959999999,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2016-11,2096571.45,2,13685237.41,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2016-12,1288323.69,1,14973561.1,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2017-01,1707623.87,3,16681184.969999999,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2017-04,2407718.28,1,19088903.25,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2017-05,2424096.6,3,21512999.85,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2017-07,1738357.63,3,23251357.48,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2018-03,1840977.96,1,25092335.439999998,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2018-11,1323346.23,2,26415681.669999998,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2018-12,2117015.05,3,28532696.72,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2019-01,3060978.7,2,31593675.419999998,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2019-02,1884296.79,2,33477972.21,Education
+agy_0023,Palakkad Municipal Corporation,Kerala,2019-04,1963636.46,1,35441608.67,Education
+agy_0024,Palakkad Public Works Department,Kerala,2015-06,2746714.34,2,2746714.34,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2015-10,1839533.09,1,4586247.43,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2015-11,2100041.2800000003,2,6686288.71,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2016-04,1656558.56,2,8342847.27,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2016-08,1210425.28,1,9553272.55,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2016-09,2189938.86,1,11743211.41,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2016-10,1609558.46,1,13352769.870000001,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2017-03,2284746.25,1,15637516.120000001,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2017-05,1915542.25,3,17553058.37,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2017-06,1400382.19,1,18953440.56,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2017-07,1895062.6400000001,2,20848503.2,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2017-10,1523786.85,1,22372290.05,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2018-01,1729160.6,1,24101450.65,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2018-02,2158980.4699999997,3,26260431.12,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2018-06,22144772.33,5,48405203.45,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2018-08,1448124.16,1,49853327.61,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2018-09,1310926.27,2,51164253.88,Construction
+agy_0024,Palakkad Public Works Department,Kerala,2019-01,2289719.79,2,53453973.67,Construction
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-06,2525757.7199999997,5,2525757.7199999997,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-07,3669442.02,5,6195199.74,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-08,2694055.25,4,8889254.99,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-09,1647004.33,1,10536259.32,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-10,1468099.7,1,12004359.02,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-11,2058463.6,4,14062822.62,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2015-12,3196223.38,4,17259046.0,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-01,2671047.1,4,19930093.1,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-02,3160997.77,5,23091090.87,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-03,4151301.1999999997,3,27242392.07,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-04,2470516.7800000003,5,29712908.85,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-05,2240345.81,4,31953254.66,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-06,2517958.19,5,34471212.85,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-07,2746926.61,5,37218139.46,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-08,1520065.43,1,38738204.89,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-09,2676111.94,4,41414316.83,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2016-10,1061109.48,3,42475426.31,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-01,3569265.01,2,46044691.32,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-02,3922114.86,6,49966806.18,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-03,1950324.38,2,51917130.56,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-04,2754190.06,5,54671320.62,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-05,2258006.01,3,56929326.63,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-06,3012441.0799999996,4,59941767.71,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-07,2858934.75,1,62800702.46,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-08,3635607.3,4,66436309.76,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-09,2082913.01,4,68519222.77,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-11,3823537.58,2,72342760.35,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2017-12,843077.56,2,73185837.91,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-01,2330221.63,3,75516059.53999999,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-03,2760703.2,4,78276762.74,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-04,1666284.44,1,79943047.17999999,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-05,4084263.4,2,84027310.58,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-06,1238901.44,1,85266212.02,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-07,2990110.07,3,88256322.09,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-08,3126445.54,2,91382767.63,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-09,1738792.33,1,93121559.96,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-10,2594813.08,3,95716373.03999999,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-11,1604189.2000000002,3,97320562.24,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2018-12,2563892.63,2,99884454.87,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2019-01,3643611.11,2,103528065.98,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2019-02,1469759.21,2,104997825.19,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2019-03,1471102.59,1,106468927.78,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2019-04,1775379.8,4,108244307.58,Public Amenities
+agy_0025,Pathanamthitta Zilla Parishad,Kerala,2019-05,2770853.31,6,111015160.89,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2015-06,1040750.95,3,1040750.95,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2015-07,970297.78,3,2011048.73,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2015-10,1734597.44,3,3745646.17,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2015-12,1553764.15,2,5299410.32,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2016-03,1657681.53,1,6957091.85,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2016-04,1514887.74,1,8471979.59,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2016-07,1219632.61,1,9691612.2,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2016-08,1811490.09,2,11503102.29,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2016-09,1451467.5899999999,2,12954569.879999999,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2017-01,1111829.24,3,14066399.12,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2017-09,1407282.08,1,15473681.2,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2018-01,1122934.87,2,16596616.07,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2018-02,740563.83,1,17337179.9,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2018-03,1108158.3199999998,2,18445338.22,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2018-05,1732282.25,3,20177620.47,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2018-07,1908581.15,1,22086201.62,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2018-08,1549057.15,1,23635258.77,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2019-01,1267596.78,2,24902855.55,Public Amenities
+agy_0026,Thiruvananthapuram Municipal Corporation,Kerala,2019-03,1894007.6,2,26796863.15,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2015-06,1203465.66,3,1203465.66,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2015-07,1543516.06,3,2746981.7199999997,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2015-08,1554943.3900000001,2,4301925.11,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2015-10,1059732.37,1,5361657.48,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2015-11,1763298.93,1,7124956.41,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2015-12,1048703.63,2,8173660.04,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-01,1811438.34,1,9985098.38,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-03,1196373.59,3,11181471.97,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-04,1337848.1099999999,2,12519320.08,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-05,1230185.83,1,13749505.91,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-06,1754878.71,2,15504384.620000001,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-07,1350586.65,2,16854971.27,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-08,788950.64,1,17643921.91,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-09,958848.52,1,18602770.43,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-10,671344.2,1,19274114.63,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-11,1723752.03,2,20997866.66,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2016-12,1274186.7000000002,2,22272053.36,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-01,1885333.61,1,24157386.97,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-02,1142213.15,2,25299600.12,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-03,1369213.48,3,26668813.6,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-04,1813455.16,1,28482268.76,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-05,1765268.01,1,30247536.77,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-06,1468010.08,3,31715546.85,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-07,1037188.19,2,32752735.04,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-08,1451154.48,3,34203889.52,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-09,1314042.43,1,35517931.95,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-10,1426149.39,3,36944081.34,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-11,1507960.3199999998,3,38452041.66,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2017-12,1388800.39,2,39840842.05,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-01,1669386.23,1,41510228.28,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-02,1088796.4,1,42599024.68,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-04,1422951.87,3,44021976.55,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-05,1109937.32,1,45131913.87,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-06,1424389.57,2,46556303.44,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-07,1227206.35,2,47783509.79,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-08,1745077.34,1,49528587.13,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-09,1052777.5899999999,2,50581364.72,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-10,1423303.62,2,52004668.34,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-11,1487493.78,1,53492162.12,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2018-12,1854600.9,3,55346763.02,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2019-01,1158902.41,1,56505665.43,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2019-02,1876923.01,3,58382588.44,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2019-03,1568837.24,3,59951425.68,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2019-04,1291755.01,3,61243180.69,Public Amenities
+agy_0027,Thiruvananthapuram Nagar Panchayat,Kerala,2019-05,1446774.23,1,62689954.92,Public Amenities
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2015-07,1674743.8,1,1674743.8,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2015-09,1011983.5700000001,2,2686727.37,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2015-11,1154398.41,2,3841125.7800000003,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2016-05,1371387.24,3,5212513.02,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2016-07,1163543.9,1,6376056.92,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2017-01,1458883.86,1,7834940.78,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2018-04,1657346.54,1,9492287.32,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2018-07,1680101.13,2,11172388.45,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2018-09,1647623.51,2,12820011.96,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2018-12,1641202.76,1,14461214.72,Roads
+agy_0028,Thiruvananthapuram Public Works Department,Kerala,2019-03,1119955.02,3,15581169.74,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2015-06,1889111.82,1,1889111.82,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2015-07,2594553.4699999997,3,4483665.29,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2015-09,1345969.51,3,5829634.8,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2015-10,1666975.0,1,7496609.8,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2015-12,1068134.54,2,8564744.34,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-02,1397316.82,1,9962061.16,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-05,1947439.3,3,11909500.46,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-06,782555.17,1,12692055.63,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-07,3691950.7,2,16384006.33,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-08,1795510.67,1,18179517.0,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-09,2749267.5,2,20928784.5,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-11,2292982.7,2,23221767.2,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2016-12,1557665.6099999999,2,24779432.810000002,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-02,1893564.8699999999,3,26672997.68,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-03,1574474.75,3,28247472.43,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-04,2544367.52,3,30791839.95,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-05,3218502.26,2,34010342.21,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-06,1333503.81,2,35343846.02,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-07,2574348.61,1,37918194.63,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-09,1863237.53,2,39781432.16,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-10,1452395.02,3,41233827.18,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-11,2098408.87,3,43332236.05,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2017-12,1948464.3900000001,3,45280700.44,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-02,1246421.87,2,46527122.31,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-03,2060990.65,3,48588112.96,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-04,2264848.08,2,50852961.04,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-05,1861281.16,1,52714242.2,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-07,2129161.15,3,54843403.35,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-08,3030932.06,3,57874335.41,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-09,2816786.91,3,60691122.32,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2018-10,2134018.37,2,62825140.69,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2019-01,2246124.98,2,65071265.67,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2019-02,1754626.8900000001,3,66825892.56,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2019-03,1810958.2200000002,3,68636850.78,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2019-04,1277060.48,1,69913911.26,Roads
+agy_0029,Thrissur Municipal Corporation,Kerala,2019-05,1900544.79,3,71814456.05,Roads
+agy_0030,Thrissur Panchayat Samiti,Kerala,2015-06,1639914.2,3,1639914.2,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2016-02,2133446.5700000003,3,3773360.7700000005,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2016-03,1446411.18,1,5219771.95,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2016-04,608087.3,1,5827859.25,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2016-09,1888614.8900000001,2,7716474.140000001,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2016-11,2780952.75,2,10497426.89,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2016-12,1627943.85,2,12125370.74,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2017-04,912255.27,1,13037626.010000002,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2017-05,972120.62,2,14009746.63,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2017-08,2059963.9100000001,3,16069710.540000001,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2017-09,1732268.24,2,17801978.78,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2018-05,1037897.29,2,18839876.07,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2018-07,1784794.92,2,20624670.990000002,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2018-08,1625655.1,3,22250326.09,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2018-11,1543792.14,1,23794118.23,Water Supply
+agy_0030,Thrissur Panchayat Samiti,Kerala,2019-04,2014779.0,2,25808897.23,Water Supply
+agy_0031,Thrissur Panch. Samiti,Kerala,2016-04,1322167.56,1,1322167.56,Irrigation
+agy_0031,Thrissur Panch. Samiti,Kerala,2017-05,825153.71,1,2147321.27,Irrigation
+agy_0031,Thrissur Panch. Samiti,Kerala,2018-05,432026.43,1,2579347.7,Irrigation
+agy_0031,Thrissur Panch. Samiti,Kerala,2018-07,1424864.1,1,4004211.8,Irrigation
+agy_0031,Thrissur Panch. Samiti,Kerala,2018-09,2118893.56,1,6123105.36,Irrigation
+agy_0032,Wayanad District Authority,Kerala,2016-03,839368.02,1,839368.02,Construction
+agy_0032,Wayanad District Authority,Kerala,2016-06,1997055.79,2,2836423.81,Construction
+agy_0032,Wayanad District Authority,Kerala,2016-11,2182678.89,1,5019102.7,Construction
+agy_0032,Wayanad District Authority,Kerala,2017-01,2162452.19,1,7181554.890000001,Construction
+agy_0032,Wayanad District Authority,Kerala,2017-03,2072863.13,3,9254418.02,Construction
+agy_0032,Wayanad District Authority,Kerala,2017-05,1940102.6300000001,2,11194520.65,Construction
+agy_0032,Wayanad District Authority,Kerala,2017-06,1914432.72,2,13108953.370000001,Construction
+agy_0032,Wayanad District Authority,Kerala,2017-09,1812506.8900000001,2,14921460.26,Construction
+agy_0032,Wayanad District Authority,Kerala,2018-02,1107366.49,1,16028826.75,Construction
+agy_0032,Wayanad District Authority,Kerala,2018-06,1643383.1099999999,3,17672209.86,Construction
+agy_0032,Wayanad District Authority,Kerala,2018-07,1956700.46,1,19628910.32,Construction
+agy_0032,Wayanad District Authority,Kerala,2018-09,2209381.95,1,21838292.27,Construction
+agy_0032,Wayanad District Authority,Kerala,2018-12,1696058.8,1,23534351.07,Construction
+agy_0032,Wayanad District Authority,Kerala,2019-05,1489653.65,1,25024004.72,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2016-02,1822318.73,3,1822318.73,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2016-06,657727.01,1,2480045.74,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2016-07,2414530.06,1,4894575.8,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2016-12,1154589.28,2,6049165.08,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2017-08,1451952.03,2,7501117.109999999,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2017-12,1760793.08,1,9261910.19,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2018-02,1222924.23,3,10484834.42,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2018-03,953672.99,2,11438507.41,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2018-06,651428.14,1,12089935.55,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2018-09,1549092.35,2,13639027.9,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2018-11,1482578.27,1,15121606.17,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2019-03,1392912.52,3,16514518.69,Construction
+agy_0033,Wayanad Nagar Panchayat,Kerala,2019-05,1577480.17,1,18091998.86,Construction
+agy_0034,Angul Zilla Parishad,Odisha,2015-06,2041043.91,1,2041043.91,Education
+agy_0034,Angul Zilla Parishad,Odisha,2015-12,902315.71,1,2943359.62,Education
+agy_0034,Angul Zilla Parishad,Odisha,2016-02,897803.88,2,3841163.5,Education
+agy_0034,Angul Zilla Parishad,Odisha,2016-03,748703.45,2,4589866.95,Education
+agy_0034,Angul Zilla Parishad,Odisha,2016-04,1090510.02,3,5680376.97,Education
+agy_0034,Angul Zilla Parishad,Odisha,2016-07,926183.62,1,6606560.59,Education
+agy_0034,Angul Zilla Parishad,Odisha,2017-01,1855280.34,1,8461840.93,Education
+agy_0034,Angul Zilla Parishad,Odisha,2017-08,2003935.79,3,10465776.719999999,Education
+agy_0034,Angul Zilla Parishad,Odisha,2017-10,625143.58,1,11090920.299999999,Education
+agy_0034,Angul Zilla Parishad,Odisha,2017-11,1364282.47,1,12455202.77,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-02,1221876.81,3,13677079.58,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-04,1935494.57,1,15612574.15,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-05,1050492.51,3,16663066.66,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-07,1349992.02,2,18013058.68,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-09,567122.57,1,18580181.25,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-11,1150367.9,3,19730549.15,Education
+agy_0034,Angul Zilla Parishad,Odisha,2018-12,932990.54,2,20663539.689999998,Education
+agy_0034,Angul Zilla Parishad,Odisha,2019-04,945732.6,2,21609272.29,Education
+agy_0034,Angul Zilla Parishad,Odisha,2019-05,1222462.73,2,22831735.02,Education
+agy_0035,Balasore Gram Panchayat,Odisha,2015-06,1225648.8,2,1225648.8,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2015-07,606520.87,1,1832169.67,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2015-08,855473.26,3,2687642.93,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2015-09,1341351.92,2,4028994.85,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2015-10,981105.41,3,5010100.26,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2015-11,1408235.43,3,6418335.6899999995,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2015-12,1159204.55,3,7577540.24,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-01,870815.37,2,8448355.61,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-02,654785.13,1,9103140.74,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-03,1337031.33,1,10440172.07,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-04,1458637.35,3,11898809.42,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-05,2155055.17,1,14053864.59,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-06,1180742.55,3,15234607.14,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-07,799734.3400000001,3,16034341.48,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-08,1299578.01,2,17333919.49,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-09,980299.5700000001,3,18314219.06,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-10,1434800.0999999999,2,19749019.16,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-11,1027005.52,3,20776024.68,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2016-12,1632398.7,2,22408423.38,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-02,1189899.8599999999,2,23598323.24,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-04,1253009.21,2,24851332.45,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-05,1345964.28,3,26197296.73,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-06,1100181.5,3,27297478.23,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-07,966811.1799999999,3,28264289.41,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-08,1220399.6800000002,3,29484689.09,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-09,1051416.8,1,30536105.89,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-10,991258.03,2,31527363.92,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-11,1238793.3,3,32766157.22,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2017-12,813337.08,2,33579494.3,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-01,1167895.53,3,34747389.83,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-02,626079.47,2,35373469.3,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-03,1528442.2,3,36901911.5,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-04,1885700.95,1,38787612.45,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-05,670273.47,2,39457885.92,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-06,1162896.0899999999,2,40620782.01,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-07,951692.1100000001,2,41572474.12,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-08,949947.94,3,42522422.06,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-09,653852.88,2,43176274.94,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-10,829669.01,1,44005943.95,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-11,1161419.69,2,45167363.64,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2018-12,1547186.74,3,46714550.38,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2019-01,957815.53,2,47672365.91,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2019-02,951945.25,1,48624311.16,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2019-03,911197.36,3,49535508.52,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2019-04,913162.58,1,50448671.1,Roads
+agy_0035,Balasore Gram Panchayat,Odisha,2019-05,621774.11,3,51070445.21,Roads
+agy_0036,Balasore Municipal Council,Odisha,2015-06,1530292.6400000001,3,1530292.6400000001,Roads
+agy_0036,Balasore Municipal Council,Odisha,2016-04,1503096.74,1,3033389.38,Roads
+agy_0036,Balasore Municipal Council,Odisha,2016-08,1723916.5699999998,3,4757305.95,Roads
+agy_0036,Balasore Municipal Council,Odisha,2016-09,1195429.21,1,5952735.16,Roads
+agy_0036,Balasore Municipal Council,Odisha,2016-10,2309323.75,3,8262058.91,Roads
+agy_0036,Balasore Municipal Council,Odisha,2016-11,2134576.95,2,10396635.86,Roads
+agy_0036,Balasore Municipal Council,Odisha,2016-12,1672467.03,1,12069102.89,Roads
+agy_0036,Balasore Municipal Council,Odisha,2017-01,2566134.86,3,14635237.75,Roads
+agy_0036,Balasore Municipal Council,Odisha,2017-05,1608350.3399999999,2,16243588.09,Roads
+agy_0036,Balasore Municipal Council,Odisha,2017-06,2833833.49,2,19077421.58,Roads
+agy_0036,Balasore Municipal Council,Odisha,2017-10,656141.69,1,19733563.27,Roads
+agy_0036,Balasore Municipal Council,Odisha,2017-11,2627339.03,1,22360902.3,Roads
+agy_0036,Balasore Municipal Council,Odisha,2018-01,2286712.05,2,24647614.35,Roads
+agy_0036,Balasore Municipal Council,Odisha,2018-02,1185772.42,3,25833386.77,Roads
+agy_0036,Balasore Municipal Council,Odisha,2018-06,2339133.59,2,28172520.36,Roads
+agy_0036,Balasore Municipal Council,Odisha,2018-08,1709227.0899999999,3,29881747.45,Roads
+agy_0036,Balasore Municipal Council,Odisha,2018-09,1986988.3900000001,3,31868735.84,Roads
+agy_0036,Balasore Municipal Council,Odisha,2018-12,1750466.23,1,33619202.07,Roads
+agy_0036,Balasore Municipal Council,Odisha,2019-03,1080893.12,1,34700095.19,Roads
+agy_0036,Balasore Municipal Council,Odisha,2019-04,1000698.09,1,35700793.28,Roads
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-06,1719453.23,1,1719453.23,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-07,1500381.64,1,3219834.87,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-08,1252387.9,3,4472222.77,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-09,1115460.37,3,5587683.14,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-10,1368179.99,3,6955863.13,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-11,1458555.33,2,8414418.46,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2015-12,1470181.3199999998,3,9884599.78,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-01,1067452.32,1,10952052.1,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-02,2676769.06,1,13628821.16,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-03,2590841.13,1,16219662.29,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-06,2089808.62,1,18309470.91,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-07,1571069.14,1,19880540.05,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-08,645719.88,1,20526259.93,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-10,1480053.27,3,22006313.2,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2016-12,991615.34,3,22997928.54,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-01,775671.03,1,23773599.57,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-02,510495.21,1,24284094.78,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-04,1702470.97,1,25986565.75,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-05,1448177.53,2,27434743.28,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-06,699756.35,2,28134499.63,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-08,1952756.47,1,30087256.1,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-09,1765408.6600000001,2,31852664.76,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-11,932817.1599999999,2,32785481.92,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2017-12,1020952.6499999999,2,33806434.57,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-01,1003441.65,1,34809876.22,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-02,1063972.78,3,35873849.0,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-03,1485411.59,2,37359260.59,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-04,925405.8,1,38284666.39,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-05,1757896.78,3,40042563.17,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-07,895033.84,1,40937597.01,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-08,1716375.2000000002,3,42653972.21,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-09,519679.04,1,43173651.25,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-10,1175825.53,1,44349476.78,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-11,1959983.77,1,46309460.55,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2018-12,910639.19,2,47220099.74,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2019-01,2323279.15,1,49543378.89,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2019-02,1126485.97,1,50669864.86,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2019-03,1376179.03,1,52046043.89,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2019-04,1902564.5,1,53948608.39,Public Amenities
+agy_0037,Baragarh Zilla Parishad,Odisha,2019-05,1821170.4300000002,2,55769778.82,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2015-09,880285.48,2,880285.48,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2016-08,1191095.19,2,2071380.67,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2016-09,845319.78,1,2916700.45,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2016-12,753128.3200000001,3,3669828.77,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2017-02,834326.37,2,4504155.14,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2017-03,894933.41,3,5399088.55,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2017-05,1103126.33,3,6502214.88,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2017-06,808113.44,3,7310328.32,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2017-08,9557049.34,5,16867377.66,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2017-09,689789.52,1,17557167.18,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2018-04,626630.63,2,18183797.81,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2018-10,699121.77,1,18882919.580000002,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2018-12,1921659.31,1,20804578.89,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2019-01,957293.71,3,21761872.6,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2019-02,586362.31,2,22348234.91,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2019-03,578455.86,1,22926690.77,Public Amenities
+agy_0038,Bargarh Gram Panchayat,Odisha,2019-04,602980.63,1,23529671.4,Public Amenities
+agy_0039,Bhadrak Zilla Parishad,Odisha,2015-06,1576268.71,3,1576268.71,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2015-07,1600629.92,2,3176898.63,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2015-08,1090459.17,3,4267357.8,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2015-10,1457585.31,2,5724943.109999999,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2015-11,1737531.42,1,7462474.529999999,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2015-12,1131330.17,1,8593804.7,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-01,1799346.5,2,10393151.2,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-02,1661462.56,2,12054613.76,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-03,1549559.8299999998,3,13604173.59,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-04,2500876.41,1,16105050.0,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-05,1428644.6600000001,3,17533694.66,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-06,1302699.97,3,18836394.63,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-07,1408476.24,2,20244870.87,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-08,1481823.94,3,21726694.81,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-10,799164.87,3,22525859.68,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-11,2253991.3,3,24779850.98,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2016-12,1898485.43,1,26678336.41,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-01,1808588.97,3,28486925.38,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-02,1532601.69,3,30019527.07,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-03,1824258.72,3,31843785.79,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-04,2318046.51,2,34161832.3,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-05,1729103.83,2,35890936.13,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-06,1274525.12,2,37165461.25,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-07,950080.56,2,38115541.81,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-08,1108817.19,3,39224359.0,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-09,854381.05,1,40078740.05,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-10,1476379.25,1,41555119.3,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-11,2531361.78,1,44086481.08,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2017-12,1430317.19,2,45516798.27,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-01,1335504.78,3,46852303.05,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-02,2091620.5899999999,2,48943923.64,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-03,2147995.94,2,51091919.58,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-04,1176970.03,2,52268889.61,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-05,1199522.53,3,53468412.14,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-06,1635957.19,2,55104369.33,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-07,1887535.87,3,56991905.2,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-08,1493039.9,1,58484945.1,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-09,1686009.86,2,60170954.96,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-10,865955.14,1,61036910.1,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-11,2060368.08,2,63097278.18,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2018-12,2329833.38,2,65427111.56,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2019-01,2234424.4899999998,2,67661536.05,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2019-02,1733684.54,2,69395220.59,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2019-03,1582546.44,3,70977767.03,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2019-04,1694447.89,2,72672214.92,Roads
+agy_0039,Bhadrak Zilla Parishad,Odisha,2019-05,2566557.5700000003,2,75238772.49,Roads
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2015-06,964055.82,1,964055.82,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2015-07,2697141.92,3,3661197.7399999998,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2015-10,2125091.54,1,5786289.279999999,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2015-11,2535812.05,2,8322101.33,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-01,2395998.42,2,10718099.75,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-02,1985736.97,2,12703836.719999999,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-03,1287612.74,2,13991449.459999999,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-07,1693978.8599999999,2,15685428.32,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-08,2553616.06,3,18239044.38,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-09,2504063.78,2,20743108.16,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2016-10,2151960.41,3,22895068.57,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-02,1403815.21,1,24298883.78,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-03,3898917.08,3,28197800.86,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-04,2639098.64,2,30836899.5,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-07,1726604.27,1,32563503.77,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-09,1706480.9700000002,2,34269984.74,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-10,1803587.8599999999,2,36073572.6,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-11,3043999.13,2,39117571.73,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2017-12,2363353.76,2,41480925.49,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-01,2537438.31,3,44018363.8,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-03,2159362.89,3,46177726.69,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-06,2078354.13,2,48256080.82,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-07,3502895.77,1,51758976.589999996,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-08,1842686.0899999999,2,53601662.68,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-09,3109558.3,2,56711220.98,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-10,2409206.31,2,59120427.29,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-11,1622286.8,2,60742714.089999996,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2018-12,1360437.09,1,62103151.18,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2019-01,1260484.95,3,63363636.13,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2019-02,2898819.7,3,66262455.83,Construction
+agy_0040,Bhadrak(Sc) Gram Panchayat,Odisha,2019-05,2516645.87,1,68779101.7,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2015-06,1172755.41,1,1172755.41,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2015-07,1744706.97,1,2917462.38,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2015-08,1466476.5,3,4383938.88,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2015-09,1835417.68,3,6219356.56,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2015-10,2139548.31,3,8358904.87,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2015-11,2451874.39,3,10810779.26,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2016-01,1133394.41,1,11944173.67,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2016-03,1048232.04,1,12992405.71,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2016-06,1166383.63,1,14158789.34,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2016-07,2548218.73,3,16707008.07,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2016-09,1889499.8399999999,2,18596507.91,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-01,2039890.78,1,20636398.69,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-03,2531725.08,1,23168123.77,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-05,1522842.99,2,24690966.76,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-06,1968699.11,1,26659665.87,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-07,2840708.3,1,29500374.17,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-09,2051173.0999999999,2,31551547.27,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-11,2014365.2,2,33565912.47,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2017-12,2546646.1399999997,3,36112558.61,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-01,2041683.32,1,38154241.93,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-02,1108752.0699999998,2,39262994.0,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-05,2434687.77,1,41697681.769999996,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-06,1650978.46,2,43348660.23,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-07,2360057.99,1,45708718.22,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-08,2293997.16,1,48002715.38,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-09,1472612.78,3,49475328.16,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-10,1074795.16,1,50550123.32,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-11,2330776.36,1,52880899.68,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2018-12,1777082.6,2,54657982.28,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2019-01,1781987.4100000001,2,56439969.69,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2019-03,1316984.01,3,57756953.7,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2019-04,2384665.39,1,60141619.09,Construction
+agy_0041,Bolangir Panchayat Samiti,Odisha,2019-05,1660727.23,1,61802346.32,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2015-06,1265965.9,2,1265965.9,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2016-03,462288.85,1,1728254.75,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2016-04,1655376.01,1,3383630.76,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2016-06,829236.29,1,4212867.05,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2017-05,741809.84,1,4954676.89,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2017-10,2316413.65,1,7271090.539999999,Construction
+agy_0042,Bolangir Panch. Samiti,Odisha,2018-02,633380.74,1,7904471.279999999,Construction
+agy_0043,Cuttack Panchayat Samiti,Odisha,2015-07,1335706.96,2,1335706.96,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2016-01,1789657.25,3,3125364.21,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2016-03,2316149.46,1,5441513.67,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2016-09,2552429.27,3,7993942.9399999995,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2016-12,1971659.58,3,9965602.52,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2017-01,834774.94,1,10800377.46,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2017-02,843260.7,1,11643638.16,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2017-07,1641826.12,3,13285464.28,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2018-01,2098044.21,1,15383508.49,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2018-04,1964698.21,2,17348206.7,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2018-05,1904004.6,2,19252211.3,Education
+agy_0043,Cuttack Panchayat Samiti,Odisha,2018-08,1559478.58,2,20811689.88,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2015-09,1245190.5,3,1245190.5,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2015-10,785226.49,1,2030416.99,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2015-11,986514.8600000001,2,3016931.85,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2016-01,872996.51,3,3889928.3600000003,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2016-04,1253939.88,1,5143868.24,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2016-08,805650.6699999999,3,5949518.91,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2016-10,745269.33,3,6694788.24,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2017-02,891186.2,3,7585974.4399999995,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2017-04,1337928.25,2,8923902.69,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2017-05,829243.0,3,9753145.69,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2017-07,2309739.32,1,12062885.01,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2017-10,785477.14,2,12848362.15,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2017-11,1041579.61,2,13889941.76,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2018-01,1071220.99,1,14961162.75,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2018-02,927147.61,2,15888310.36,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2018-03,725789.25,3,16614099.61,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2018-09,916963.25,2,17531062.86,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2018-11,625158.13,2,18156220.99,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2018-12,1135293.9300000002,3,19291514.92,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2019-01,1229530.09,1,20521045.01,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2019-03,1447865.83,3,21968910.84,Education
+agy_0044,Cuttack Rural Development Agency,Odisha,2019-05,1402374.38,3,23371285.22,Education
+agy_0045,Cuttack Panch. Samiti,Odisha,2017-01,810970.37,1,810970.37,Health
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2016-05,1464826.73,1,1464826.73,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2016-08,1249618.78,1,2714445.51,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2016-11,1888175.92,1,4602621.43,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2017-02,1587594.9,1,6190216.33,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2017-03,1080485.63,1,7270701.96,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2017-09,1594410.77,3,8865112.73,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2018-05,1684041.06,2,10549153.79,Electrification
+agy_0046,Dhenkanal Gram Panchayat,Odisha,2019-01,1337858.06,3,11887011.85,Electrification
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2015-08,2545026.24,2,2545026.24,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2015-09,1458600.31,2,4003626.5500000003,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2015-10,1145908.19,3,5149534.74,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2015-11,1840724.11,1,6990258.850000001,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2015-12,1296460.16,3,8286719.01,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2016-01,2541838.59,1,10828557.6,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2016-02,2100725.36,1,12929282.96,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2017-03,1545256.55,3,14474539.51,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2017-05,1714236.48,3,16188775.99,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2017-08,2130508.0700000003,3,18319284.060000002,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2017-09,1444973.76,1,19764257.82,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2017-10,2196827.71,1,21961085.53,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2017-11,1149150.7,3,23110236.23,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2018-02,1360620.46,1,24470856.69,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2018-07,1883944.87,3,26354801.56,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2018-09,843053.17,1,27197854.73,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2018-10,1855078.4300000002,3,29052933.16,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2018-11,1605785.0899999999,3,30658718.25,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2018-12,1230141.12,2,31888859.37,Irrigation
+agy_0047,Dhenkanal Municipal Corporation,Odisha,2019-04,1993353.72,2,33882213.09,Irrigation
+agy_0048,Aska Nagar Panchayat,Odisha,2015-07,1241786.58,2,1241786.58,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2015-11,1082811.65,1,2324598.23,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2015-12,1508193.96,2,3832792.19,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2016-01,1301238.46,2,5134030.65,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2016-02,1467579.15,3,6601609.8,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2016-03,1409637.85,2,8011247.65,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2016-06,1713997.02,3,9725244.67,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2016-07,1012617.5,2,10737862.17,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2016-09,2334205.33,1,13072067.5,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2017-02,2198451.87,3,15270519.370000001,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2017-04,1548813.1400000001,2,16819332.51,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2017-10,1000146.54,1,17819479.05,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-04,1228344.5,1,19047823.55,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-05,1367681.37,1,20415504.92,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-06,1174891.96,3,21590396.88,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-07,1714838.3399999999,2,23305235.22,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-10,1076406.01,2,24381641.23,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-11,2394938.0500000003,2,26776579.28,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2018-12,1833903.73,2,28610483.01,Public Amenities
+agy_0048,Aska Nagar Panchayat,Odisha,2019-02,1416512.17,3,30026995.18,Public Amenities
+agy_0049,Ganjam Municipal Council,Odisha,2016-03,1196306.48,1,1196306.48,Health
+agy_0049,Ganjam Municipal Council,Odisha,2017-04,2049275.9100000001,3,3245582.39,Health
+agy_0049,Ganjam Municipal Council,Odisha,2017-06,1682654.97,3,4928237.36,Health
+agy_0049,Ganjam Municipal Council,Odisha,2017-07,2080933.79,1,7009171.15,Health
+agy_0049,Ganjam Municipal Council,Odisha,2017-09,1963506.0099999998,3,8972677.16,Health
+agy_0049,Ganjam Municipal Council,Odisha,2017-10,1618661.27,1,10591338.43,Health
+agy_0049,Ganjam Municipal Council,Odisha,2018-07,1803614.29,3,12394952.72,Health
+agy_0049,Ganjam Municipal Council,Odisha,2019-03,1576028.88,2,13970981.6,Health
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2015-06,2003235.74,3,2003235.74,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2015-12,2087451.08,3,4090686.8200000003,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2016-01,1626611.02,2,5717297.84,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2016-02,2515064.78,1,8232362.62,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2017-01,1574927.46,2,9807290.08,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2017-07,1154646.28,1,10961936.36,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2017-10,1107177.82,1,12069114.18,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2017-11,1258391.1600000001,3,13327505.34,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2018-02,2036258.83,3,15363764.17,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2018-04,1707484.99,3,17071249.16,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2018-09,1350697.35,2,18421946.51,Irrigation
+agy_0050,Jagatsinghpur Nagar Panchayat,Odisha,2018-12,1900958.74,2,20322905.25,Irrigation
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2015-10,1283301.7000000002,3,1283301.7000000002,Roads
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2016-04,1223665.46,3,2506967.16,Roads
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2016-11,673685.88,1,3180653.04,Roads
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2017-01,949925.09,1,4130578.13,Roads
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2017-05,986276.1799999999,3,5116854.3100000005,Roads
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2017-10,802212.52,2,5919066.83,Roads
+agy_0051,Jajpur(Sc) Panchayat Samiti,Odisha,2019-01,2330879.16,3,8249945.99,Roads
+agy_0052,Kalahandi District Authority,Odisha,2015-06,628163.87,1,628163.87,Roads
+agy_0052,Kalahandi District Authority,Odisha,2015-07,1281439.17,1,1909603.04,Roads
+agy_0052,Kalahandi District Authority,Odisha,2015-09,1908967.55,3,3818570.59,Roads
+agy_0052,Kalahandi District Authority,Odisha,2015-10,1385047.31,3,5203617.9,Roads
+agy_0052,Kalahandi District Authority,Odisha,2015-11,1480739.05,2,6684356.95,Roads
+agy_0052,Kalahandi District Authority,Odisha,2015-12,983329.49,1,7667686.44,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-01,1240259.17,3,8907945.61,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-02,2075139.93,3,10983085.54,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-03,2224827.84,3,13207913.379999999,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-04,2326082.34,1,15533995.719999999,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-05,1277497.64,2,16811493.36,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-06,2867859.29,1,19679352.65,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-07,2472623.56,1,22151976.21,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-08,1777141.45,2,23929117.66,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-09,1347463.1099999999,3,25276580.77,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-10,1399664.6600000001,3,26676245.43,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-11,1535337.26,2,28211582.689999998,Roads
+agy_0052,Kalahandi District Authority,Odisha,2016-12,1719645.99,3,29931228.68,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-01,1166376.26,3,31097604.939999998,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-02,742253.95,1,31839858.89,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-03,1231019.1,3,33070877.99,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-04,1361918.11,3,34432796.1,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-05,2769499.72,1,37202295.82,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-06,2368835.53,1,39571131.35,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-07,1458861.39,3,41029992.74,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-08,1184332.95,3,42214325.69,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-09,1652432.21,2,43866757.9,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-10,885819.7,1,44752577.6,Roads
+agy_0052,Kalahandi District Authority,Odisha,2017-12,1112837.85,2,45865415.45,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-01,1911341.36,3,47776756.81,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-02,1664949.01,2,49441705.82,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-03,1015327.6,1,50457033.42,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-04,1134713.66,1,51591747.08,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-05,1333499.1600000001,2,52925246.24,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-06,1524385.15,2,54449631.39,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-07,1042428.97,1,55492060.36,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-08,1392930.33,3,56884990.69,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-09,9791748.52,3,66676739.21,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-10,1318710.0699999998,2,67995449.28,Roads
+agy_0052,Kalahandi District Authority,Odisha,2018-12,1004590.72,3,69000040.0,Roads
+agy_0052,Kalahandi District Authority,Odisha,2019-01,1021801.49,1,70021841.49,Roads
+agy_0052,Kalahandi District Authority,Odisha,2019-02,1514949.58,3,71536791.07,Roads
+agy_0052,Kalahandi District Authority,Odisha,2019-03,1678683.06,3,73215474.13,Roads
+agy_0052,Kalahandi District Authority,Odisha,2019-04,927587.1799999999,2,74143061.31,Roads
+agy_0052,Kalahandi District Authority,Odisha,2019-05,1965307.3900000001,3,76108368.7,Roads
+agy_0053,Kalahandi Public Works Department,Odisha,2015-06,1853114.2200000002,2,1853114.2200000002,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2015-10,1785932.05,2,3639046.2700000005,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2016-02,1710137.83,2,5349184.100000001,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2016-04,2593923.98,2,7943108.08,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2016-05,2366335.87,2,10309443.95,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2016-12,1940036.76,3,12249480.71,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2017-04,1486693.69,2,13736174.4,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2017-05,1937991.86,1,15674166.26,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2017-06,1583913.26,1,17258079.52,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2017-07,2442561.0100000002,3,19700640.53,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2017-08,3016726.56,1,22717367.09,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2018-08,2484157.83,2,25201524.92,Public Amenities
+agy_0053,Kalahandi Public Works Department,Odisha,2019-03,19590608.14,5,44792133.06,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-06,739839.53,2,739839.53,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-07,1564885.43,1,2304724.96,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-08,777365.11,2,3082090.07,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-09,2185763.34,1,5267853.41,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-10,2032470.3,3,7300323.71,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-11,1179241.89,3,8479565.6,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2015-12,1449340.79,1,9928906.39,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-01,902191.91,3,10831098.299999999,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-02,938630.25,3,11769728.549999999,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-03,1619187.87,2,13388916.42,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-04,1151612.8599999999,2,14540529.28,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-05,783233.38,2,15323762.66,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-06,1045104.02,1,16368866.68,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-07,1526379.7999999998,2,17895246.48,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-08,2432329.58,1,20327576.06,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-10,1031403.88,3,21358979.94,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-11,1201592.02,2,22560571.96,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2016-12,2088997.3599999999,3,24649569.32,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-02,1258420.74,2,25907990.06,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-03,864831.94,2,26772822.0,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-04,1101019.79,2,27873841.79,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-05,848686.71,1,28722528.5,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-06,1086435.88,1,29808964.38,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-07,928798.73,2,30737763.11,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-08,883407.8300000001,2,31621170.939999998,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-09,1177908.27,2,32799079.21,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-10,898800.03,1,33697879.24,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-11,592306.42,1,34290185.66,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2017-12,708854.06,1,34999039.72,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-01,1419231.5899999999,3,36418271.31,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-02,1196726.68,2,37614997.99,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-03,1034537.46,3,38649535.449999996,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-04,1340526.79,2,39990062.24,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-05,959934.08,1,40949996.32,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-06,1036120.77,1,41986117.089999996,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-07,717453.88,2,42703570.97,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-08,1164936.8800000001,3,43868507.85,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-09,1194457.78,1,45062965.63,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-10,1042618.14,3,46105583.769999996,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-11,899610.55,2,47005194.32,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2018-12,854365.24,1,47859559.56,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2019-01,1164982.31,3,49024541.87,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2019-02,1299576.16,1,50324118.03,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2019-03,686790.34,1,51010908.37,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2019-04,1506333.85,1,52517242.22,Public Amenities
+agy_0054,Kandhamal Municipal Council,Odisha,2019-05,863272.03,2,53380514.25,Public Amenities
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2015-06,1903937.63,3,1903937.63,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2015-07,1738163.6199999999,3,3642101.25,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2015-09,2038928.9700000002,2,5681030.22,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2015-10,1640392.0999999999,2,7321422.32,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2015-11,1935179.81,2,9256602.129999999,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2016-02,1555941.83,1,10812543.96,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2016-05,1958311.1400000001,2,12770855.1,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2016-06,1372948.17,1,14143803.27,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2016-07,2029844.04,3,16173647.31,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2016-12,1886881.41,2,18060528.72,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-01,1683197.32,1,19743726.04,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-02,1345823.32,2,21089549.36,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-04,1785551.6800000002,2,22875101.04,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-05,2168561.21,2,25043662.25,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-07,2975920.46,1,28019582.71,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-08,3002077.63,1,31021660.34,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-09,1856890.47,3,32878550.81,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-10,2348174.51,3,35226725.32,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-11,1780719.8599999999,2,37007445.18,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2017-12,2378173.2,2,39385618.38,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2018-01,1412028.24,2,40797646.62,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2018-02,2707433.62,3,43505080.24,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2018-04,1534974.03,3,45040054.269999996,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2018-05,1492931.47,2,46532985.74,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2018-10,1820532.37,3,48353518.11,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2018-11,1665647.33,2,50019165.44,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2019-01,1705753.3900000001,2,51724918.83,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2019-03,2506762.82,1,54231681.65,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2019-04,2103342.05,2,56335023.7,Irrigation
+agy_0055,Kandhamal Nagar Panchayat,Odisha,2019-05,3374754.78,1,59709778.48,Irrigation
+agy_0056,Kandhamal Rural Development Agency,Odisha,2015-06,1560651.39,3,1560651.39,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2015-07,1479072.31,1,3039723.7,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2015-08,1739122.74,3,4778846.4399999995,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2015-09,2062980.35,1,6841826.79,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2015-10,1413555.07,3,8255381.86,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2015-11,2352915.59,3,10608297.45,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-01,1555851.13,2,12164148.58,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-02,2336833.86,1,14500982.44,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-03,1919823.74,3,16420806.18,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-05,2296454.62,2,18717260.8,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-06,3338118.74,1,22055379.54,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-07,2662276.89,1,24717656.43,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-08,1066321.01,1,25783977.44,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-09,1251209.74,2,27035187.18,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-10,2243727.09,2,29278914.27,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-11,2224286.7,1,31503200.97,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2016-12,2288413.58,2,33791614.55,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-01,2864494.71,3,36656109.26,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-02,2062336.7799999998,3,38718446.04,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-03,1852090.48,1,40570536.52,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-05,2425805.5,2,42996342.02,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-06,1902469.81,2,44898811.83,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-07,2529771.25,2,47428583.08,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-08,1572190.52,1,49000773.6,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-09,1765577.8199999998,3,50766351.42,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2017-11,699403.48,1,51465754.9,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-01,1394275.96,2,52860030.86,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-02,1493709.04,2,54353739.9,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-03,1943609.1,3,56297349.0,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-05,2534271.49,3,58831620.49,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-06,1798735.76,3,60630356.25,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-07,1672931.3900000001,3,62303287.64,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-08,2294137.67,3,64597425.31,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-09,2287711.74,2,66885137.05,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-10,1643785.9900000002,3,68528923.04,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-11,2226911.01,3,70755834.05,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2018-12,1497903.01,2,72253737.06,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2019-01,3365894.59,1,75619631.65,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2019-03,2453531.85,2,78073163.5,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2019-04,1839669.84,3,79912833.34,Public Amenities
+agy_0056,Kandhamal Rural Development Agency,Odisha,2019-05,1471013.54,1,81383846.88,Public Amenities
+agy_0057,Kandhamal Zilla Parishad,Odisha,2015-06,2084560.28,1,2084560.28,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2015-07,1299769.22,1,3384329.5,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2015-11,1326320.45,3,4710649.95,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2016-04,1866559.94,2,6577209.89,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2016-10,1508934.37,2,8086144.26,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2017-01,1815502.42,3,9901646.68,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2017-02,1174688.8199999998,2,11076335.5,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2017-03,1237630.71,3,12313966.209999999,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2017-07,1068937.7,3,13382903.91,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2017-09,861071.47,1,14243975.379999999,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2017-10,1262000.68,3,15505976.059999999,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2018-02,1194624.22,1,16700600.28,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2018-03,1399043.92,3,18099644.2,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2018-09,1466742.29,2,19566386.49,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2018-10,883069.77,2,20449456.259999998,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2019-04,1857229.77,1,22306686.03,Roads
+agy_0057,Kandhamal Zilla Parishad,Odisha,2019-05,1691351.56,2,23998037.59,Roads
+agy_0058,Kendrapara District Authority,Odisha,2015-08,1758898.53,2,1758898.53,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2015-10,936599.76,1,2695498.29,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2015-11,1686129.42,2,4381627.71,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2016-01,1958877.3900000001,3,6340505.1,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2016-05,2040345.9300000002,3,8380851.03,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2016-06,2499806.72,1,10880657.75,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2016-08,1775439.72,1,12656097.47,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2016-12,1725009.48,3,14381106.950000001,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-01,1722828.44,1,16103935.39,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-04,1710203.67,1,17814139.06,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-05,1500888.77,2,19315027.830000002,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-06,949987.65,2,20265015.48,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-07,1365980.3,3,21630995.78,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-08,2744155.07,1,24375150.85,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2017-09,1908981.71,1,26284132.56,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-01,2300337.31,2,28584469.87,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-02,1453872.52,2,30038342.39,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-04,1865230.14,2,31903572.53,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-07,2684076.49,3,34587649.02,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-09,2060006.16,1,36647655.18,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-10,1675045.63,3,38322700.81,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2018-12,1456056.23,1,39778757.04,Public Amenities
+agy_0058,Kendrapara District Authority,Odisha,2019-03,818573.07,1,40597330.11,Public Amenities
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2015-06,1068146.06,3,1068146.06,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2015-08,1028097.5,3,2096243.56,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2015-10,1119924.01,2,3216167.5700000003,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2015-11,1050931.77,2,4267099.34,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2015-12,1208443.24,1,5475542.58,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-03,1024602.74,2,6500145.32,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-04,1001313.98,3,7501459.3,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-05,1582966.92,2,9084426.22,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-06,1161277.77,1,10245703.99,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-07,1068179.56,2,11313883.55,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-09,1065769.48,2,12379653.03,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-10,1278197.33,2,13657850.36,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-11,907322.47,1,14565172.83,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2016-12,1881309.23,1,16446482.06,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-01,1186499.6199999999,3,17632981.68,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-02,919125.67,2,18552107.35,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-03,1187563.7999999998,3,19739671.15,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-04,924770.06,3,20664441.21,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-05,1488763.99,1,22153205.2,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-06,1373876.08,2,23527081.28,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-07,2928017.2,1,26455098.48,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-08,1408697.27,2,27863795.75,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-09,988285.02,2,28852080.77,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2017-10,1886893.29,1,30738974.060000002,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-01,775300.51,3,31514274.57,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-02,1558785.47,1,33073060.04,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-03,940552.37,3,34013612.410000004,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-04,1220780.87,3,35234393.28,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-05,762758.01,1,35997151.29,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-06,683717.71,2,36680869.0,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-07,1250837.69,1,37931706.69,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-08,1895364.15,2,39827070.84,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-09,1155868.51,1,40982939.35,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-10,1356584.6600000001,3,42339524.01,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-11,868039.3300000001,3,43207563.34,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2018-12,1312530.47,2,44520093.81,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2019-01,1067260.6199999999,2,45587354.43,Roads
+agy_0059,Keonjhar(St) Nagar Panchayat,Odisha,2019-02,1412506.16,2,46999860.59,Roads
+agy_0060,Khordha District Authority,Odisha,2015-06,1282211.49,2,1282211.49,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2015-07,1195168.96,2,2477380.45,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2015-08,1182735.6,3,3660116.05,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2015-09,962983.52,3,4623099.57,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2015-10,1302011.56,3,5925111.13,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2015-12,1363392.27,2,7288503.4,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-02,1295983.0,2,8584486.4,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-03,1208832.3499999999,2,9793318.75,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-04,1010037.9299999999,2,10803356.68,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-05,1503257.8900000001,2,12306614.57,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-06,911215.6299999999,3,13217830.2,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-07,2042692.89,1,15260523.09,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-08,1063758.1400000001,2,16324281.23,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-09,693023.16,1,17017304.39,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-11,1234390.97,2,18251695.36,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2016-12,860176.66,1,19111872.02,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-01,1195112.43,1,20306984.45,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-02,1001691.04,1,21308675.49,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-03,963786.24,2,22272461.73,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-05,989159.12,2,23261620.85,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-06,1501460.53,2,24763081.38,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-07,1246129.0,3,26009210.38,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-08,1211516.28,3,27220726.66,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-09,819694.44,2,28040421.1,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-11,2302386.97,1,30342808.07,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2017-12,993837.84,1,31336645.91,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-02,826899.75,1,32163545.66,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-03,1347932.14,1,33511477.8,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-04,1209937.34,1,34721415.14,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-05,1799697.07,1,36521112.21,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-06,925367.64,1,37446479.85,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-07,1286452.9100000001,3,38732932.76,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-08,1644855.3,3,40377788.06,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-10,921994.65,1,41299782.71,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-11,624005.8999999999,2,41923788.61,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2018-12,1150319.88,3,43074108.49,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2019-01,1793461.17,2,44867569.660000004,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2019-03,996127.23,1,45863696.89,Public Amenities
+agy_0060,Khordha District Authority,Odisha,2019-04,827177.59,3,46690874.480000004,Public Amenities
+agy_0061,Khordha Nagar Panchayat,Odisha,2015-08,845337.49,1,845337.49,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2015-09,2016282.45,1,2861619.94,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2015-10,1243442.0699999998,3,4105062.01,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2015-12,1266128.3399999999,2,5371190.35,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2016-02,1530734.47,1,6901924.819999999,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2016-03,1030968.75,3,7932893.569999999,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2016-04,1303085.6099999999,3,9235979.18,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2016-08,1040023.66,3,10276002.84,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2017-09,797037.47,1,11073040.309999999,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2018-01,966362.37,1,12039402.68,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2018-03,699762.27,3,12739164.95,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2018-05,1287054.9300000002,3,14026219.879999999,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2018-08,1041975.85,3,15068195.73,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2018-12,1338174.13,3,16406369.86,Roads
+agy_0061,Khordha Nagar Panchayat,Odisha,2019-04,1117454.73,3,17523824.59,Roads
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2015-07,2402591.68,3,2402591.68,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2015-08,2865831.2800000003,3,5268422.960000001,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2015-09,2297621.38,2,7566044.34,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2015-10,2231841.13,1,9797885.47,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2015-12,1856221.0899999999,2,11654106.56,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-02,2193328.03,2,13847434.59,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-03,983319.17,1,14830753.76,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-04,1771176.51,2,16601930.27,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-05,1552854.64,1,18154784.91,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-07,1225684.12,1,19380469.03,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-09,1184769.93,1,20565238.96,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2016-10,1472323.04,2,22037562.0,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-01,2327085.28,3,24364647.28,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-03,2361067.5700000003,3,26725714.85,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-04,2844367.1,1,29570081.95,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-05,3306113.71,1,32876195.66,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-06,2425340.55,3,35301536.21,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-07,2186045.42,3,37487581.63,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-08,1640981.88,2,39128563.51,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-10,2193916.4,3,41322479.91,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-11,2064065.3199999998,2,43386545.23,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2017-12,1763788.6400000001,2,45150333.87,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2018-01,1722436.91,3,46872770.78,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2018-02,1180849.1800000002,2,48053619.96,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2018-06,1494420.44,1,49548040.4,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2018-07,2226401.65,1,51774442.05,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2018-08,1169194.91,1,52943636.96,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2018-09,1905861.08,2,54849498.04,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2019-01,2078897.45,2,56928395.49,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2019-03,2209551.62,2,59137947.11,Public Amenities
+agy_0062,Mayurbhanj (St) Gram Panchayat,Odisha,2019-05,1499579.25,3,60637526.36,Public Amenities
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2015-06,1703929.37,1,1703929.37,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2015-07,1616985.77,2,3320915.14,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2015-09,1612440.28,1,4933355.42,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2015-10,1575818.23,3,6509173.65,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2015-12,1727588.53,2,8236762.18,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-01,690056.11,1,8926818.290000001,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-02,1120411.97,1,10047230.26,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-03,1051619.25,2,11098849.51,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-04,1976527.4,1,13075376.91,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-05,1030738.3,3,14106115.21,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-06,1371716.27,1,15477831.48,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-07,881563.26,2,16359394.74,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-08,1334275.53,3,17693670.27,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-09,1465044.71,2,19158714.98,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2016-12,1073878.4,3,20232593.38,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-02,1598402.1400000001,2,21830995.52,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-03,2522602.9,1,24353598.42,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-04,975856.4099999999,2,25329454.83,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-05,1387804.65,2,26717259.48,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-06,1759377.77,2,28476637.25,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-07,1206863.38,1,29683500.63,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-08,884839.36,2,30568339.99,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-09,1215785.19,3,31784125.18,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-10,1201620.62,2,32985745.8,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-11,1594788.76,1,34580534.56,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2017-12,1130445.0,2,35710979.56,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-01,1018707.44,1,36729687.0,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-02,1149324.72,1,37879011.72,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-03,1271025.94,1,39150037.66,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-04,1596188.01,2,40746225.67,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-05,1859133.1,1,42605358.77,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-07,1439061.21,3,44044419.98,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-08,1304366.31,2,45348786.29,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-09,1560896.93,2,46909683.22,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-10,1559550.77,1,48469233.99,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-11,1591990.33,3,50061224.32,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2018-12,1455682.65,3,51516906.97,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2019-01,1343838.93,3,52860745.9,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2019-02,1588347.68,2,54449093.58,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2019-03,1210888.82,1,55659982.4,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2019-04,1218749.24,3,56878731.64,Construction
+agy_0063,Mayurbhanj Zilla Parishad,Odisha,2019-05,1230251.48,1,58108983.12,Construction
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2015-06,1085691.05,2,1085691.05,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2015-07,647574.57,2,1733265.62,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2015-08,739191.96,1,2472457.58,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2015-10,1016838.02,2,3489295.6,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2015-11,801016.58,1,4290312.18,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2015-12,784437.59,2,5074749.77,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-01,783865.85,1,5858615.62,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-03,812911.9099999999,2,6671527.529999999,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-05,1034190.19,2,7705717.72,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-08,604297.92,2,8310015.64,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-09,860496.47,3,9170512.11,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-10,1507770.75,1,10678282.86,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2016-11,931139.58,3,11609422.44,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-02,1509008.72,1,13118431.16,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-03,712586.51,2,13831017.67,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-04,1279672.62,1,15110690.29,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-06,617467.78,3,15728158.07,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-07,833077.4,2,16561235.47,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-08,915050.32,3,17476285.79,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-10,921049.3899999999,2,18397335.18,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-11,696051.77,3,19093386.95,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2017-12,491927.44,1,19585314.39,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-03,929693.72,1,20515008.11,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-05,849681.16,2,21364689.27,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-07,469092.1,1,21833781.37,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-08,758520.53,1,22592301.9,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-09,1071994.05,3,23664295.95,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-10,1513613.29,1,25177909.24,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2018-11,761249.88,3,25939159.12,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2019-02,1250712.42,1,27189871.54,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2019-03,1805523.83,3,28995395.37,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2019-04,1008013.1,2,30003408.47,Public Amenities
+agy_0064,Nabarangpur Panchayat Samiti,Odisha,2019-05,351847.78,1,30355256.25,Public Amenities
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2015-06,2231539.0100000002,2,2231539.0100000002,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2015-08,2159886.4699999997,2,4391425.48,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2015-10,1998985.73,2,6390411.21,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2015-11,2281636.25,3,8672047.46,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2016-02,4024293.75,1,12696341.21,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2016-04,2928856.83,2,15625198.04,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2016-05,2137303.12,3,17762501.16,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2016-06,1307179.87,3,19069681.03,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2016-09,1799298.25,3,20868979.28,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2016-11,1720306.62,2,22589285.9,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2017-01,1633515.15,1,24222801.05,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2017-02,1809557.75,1,26032358.8,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2017-04,1837946.24,3,27870305.04,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2017-05,2338571.55,3,30208876.59,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2017-08,3199730.0,3,33408606.59,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-01,2419785.66,3,35828392.25,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-03,1442678.07,2,37271070.32,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-04,1652340.1099999999,2,38923410.43,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-05,2860421.0700000003,3,41783831.5,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-06,2660835.8,1,44444667.3,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-10,1991685.14,2,46436352.44,Roads
+agy_0065,Nabarangpur Zilla Parishad,Odisha,2018-11,1847404.23,3,48283756.67,Roads
+agy_0066,Puri District Authority,Odisha,2015-07,1333643.0,1,1333643.0,Water Supply
+agy_0066,Puri District Authority,Odisha,2015-09,715907.8300000001,2,2049550.83,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-02,410532.9,1,2460083.73,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-03,1263500.2,2,3723583.93,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-05,1351127.28,1,5074711.21,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-07,1251264.97,1,6325976.18,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-08,878265.82,1,7204242.0,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-09,772101.05,2,7976343.05,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-11,630131.96,3,8606475.01,Water Supply
+agy_0066,Puri District Authority,Odisha,2016-12,2161941.23,4,10768416.24,Water Supply
+agy_0066,Puri District Authority,Odisha,2017-01,1305201.67,3,12073617.91,Water Supply
+agy_0066,Puri District Authority,Odisha,2017-02,418267.5,1,12491885.41,Water Supply
+agy_0066,Puri District Authority,Odisha,2017-05,364598.25,1,12856483.66,Water Supply
+agy_0066,Puri District Authority,Odisha,2017-07,706183.11,1,13562666.77,Water Supply
+agy_0066,Puri District Authority,Odisha,2017-10,891236.38,1,14453903.15,Water Supply
+agy_0066,Puri District Authority,Odisha,2018-02,723929.6599999999,3,15177832.81,Water Supply
+agy_0066,Puri District Authority,Odisha,2018-04,973209.38,1,16151042.19,Water Supply
+agy_0066,Puri District Authority,Odisha,2018-06,1718625.19,5,17869667.38,Water Supply
+agy_0066,Puri District Authority,Odisha,2018-07,801615.91,2,18671283.29,Water Supply
+agy_0066,Puri District Authority,Odisha,2018-08,534985.12,1,19206268.41,Water Supply
+agy_0066,Puri District Authority,Odisha,2018-11,684126.6,2,19890395.01,Water Supply
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-06,2015926.5,1,2015926.5,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-07,1015736.03,2,3031662.5300000003,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-08,838391.94,3,3870054.4699999997,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-09,765249.5,1,4635303.97,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-10,835720.6,3,5471024.57,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-11,1282679.48,2,6753704.05,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2015-12,1004141.25,2,7757845.3,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-02,366741.93,1,8124587.2299999995,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-03,1003709.59,1,9128296.82,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-04,1194957.51,1,10323254.33,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-05,730083.86,2,11053338.19,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-06,892940.84,1,11946279.03,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-07,836846.4,2,12783125.43,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-08,883481.84,3,13666607.27,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-09,915869.02,3,14582476.29,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-10,653771.46,2,15236247.75,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-11,1205950.6099999999,2,16442198.36,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2016-12,1011076.64,2,17453275.0,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-01,1145517.03,3,18598792.03,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-02,1237681.2000000002,2,19836473.23,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-03,1613786.92,1,21450260.15,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-04,804449.6599999999,3,22254709.81,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-05,1169269.4100000001,2,23423979.22,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-06,1343382.18,3,24767361.4,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-07,862885.2,3,25630246.6,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-08,1172114.9,2,26802361.5,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-09,952239.0800000001,3,27754600.58,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-10,921643.28,3,28676243.86,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-11,1010752.94,3,29686996.8,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2017-12,859922.64,1,30546919.44,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-01,851742.24,1,31398661.68,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-02,1427478.75,1,32826140.43,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-03,531873.23,1,33358013.66,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-04,794406.31,1,34152419.97,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-05,998866.47,3,35151286.44,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-06,826244.62,3,35977531.06,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-07,819677.23,3,36797208.29,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-08,804985.28,2,37602193.57,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-09,1358888.35,3,38961081.92,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-10,856508.72,2,39817590.64,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-11,922724.7,2,40740315.34,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2018-12,863618.8500000001,2,41603934.19,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2019-01,586570.43,1,42190504.62,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2019-02,1884424.25,1,44074928.87,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2019-03,980957.0199999999,3,45055885.89,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2019-04,1194635.71,1,46250521.6,Public Amenities
+agy_0067,Koraput(St) Municipal Corporation,Odisha,2019-05,804262.96,2,47054784.56,Public Amenities
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2015-07,970694.53,1,970694.53,Construction
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2015-08,1109309.17,2,2080003.7,Construction
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2016-12,978373.6,3,3058377.3,Construction
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2017-01,1350877.16,3,4409254.46,Construction
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2017-05,739896.62,2,5149151.08,Construction
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2017-09,1439474.67,2,6588625.75,Construction
+agy_0068,Koraput(St) Panchayat Samiti,Odisha,2019-02,1204365.67,2,7792991.42,Construction
+agy_0069,Sundargarh Municipal Council,Odisha,2016-11,1680295.51,1,1680295.51,Construction
+agy_0069,Sundargarh Municipal Council,Odisha,2017-03,2003400.84,2,3683696.35,Construction
+agy_0069,Sundargarh Municipal Council,Odisha,2017-06,1815607.8599999999,3,5499304.21,Construction
+agy_0069,Sundargarh Municipal Council,Odisha,2017-12,2011058.1400000001,3,7510362.35,Construction
+agy_0069,Sundargarh Municipal Council,Odisha,2018-09,1593204.9,3,9103567.25,Construction
+agy_0069,Sundargarh Municipal Council,Odisha,2018-11,2689060.06,1,11792627.31,Construction
+agy_0070,Amritsar Gram Panchayat,Punjab,2015-07,708888.5700000001,2,708888.5700000001,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2015-08,501548.14,2,1210436.71,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2015-09,657159.4,1,1867596.11,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2016-02,904804.46,3,2772400.5700000003,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2016-04,468588.93,1,3240989.5,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2016-06,1564680.0,2,4805669.5,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2016-07,1068798.55,2,5874468.05,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2016-08,709123.09,3,6583591.14,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2017-01,937332.76,2,7520923.9,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2017-05,739793.09,1,8260716.99,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2017-12,1138111.51,2,9398828.5,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2018-01,792309.8,3,10191138.3,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2018-04,797475.32,3,10988613.62,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2018-10,849867.33,3,11838480.95,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2018-12,737000.75,2,12575481.7,Water Supply
+agy_0070,Amritsar Gram Panchayat,Punjab,2019-05,923161.4199999999,2,13498643.12,Water Supply
+agy_0071,Amritsar Municipal Corporation,Punjab,2015-07,788910.48,3,788910.48,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2015-08,667086.0700000001,2,1455996.55,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2015-09,540076.0800000001,3,1996072.6300000001,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2015-10,545173.09,3,2541245.72,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2015-11,473495.6,1,3014741.3200000003,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-01,1119364.8699999999,2,4134106.19,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-02,1307863.99,1,5441970.18,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-03,939155.11,1,6381125.29,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-04,663371.76,1,7044497.05,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-05,1214571.37,2,8259068.42,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-06,863142.05,1,9122210.47,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-07,643597.46,3,9765807.93,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-10,829049.69,1,10594857.62,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-11,1259037.49,2,11853895.11,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2016-12,728778.86,3,12582673.97,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-01,1297961.54,1,13880635.51,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-02,159409.55,1,14040045.06,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-03,890147.67,1,14930192.73,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-04,824739.8,3,15754932.53,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-05,755904.88,2,16510837.41,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-06,751474.95,3,17262312.36,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-07,752095.29,2,18014407.65,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-08,774816.33,3,18789223.98,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-09,620058.23,3,19409282.21,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-10,1092402.51,2,20501684.72,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-11,818314.73,2,21319999.45,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2017-12,1139850.71,3,22459850.16,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-02,851711.96,1,23311562.12,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-03,813040.0800000001,2,24124602.2,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-04,1039145.2,2,25163747.4,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-05,1069290.88,2,26233038.28,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-06,780005.5700000001,3,27013043.85,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-07,732234.83,2,27745278.68,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-08,880761.4600000001,3,28626040.14,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-09,808458.15,3,29434498.29,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-10,915553.2,3,30350051.49,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-11,1608439.43,1,31958490.919999998,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2018-12,1007961.19,3,32966452.11,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2019-01,850513.03,2,33816965.14,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2019-02,1162140.55,1,34979105.69,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2019-03,868210.0599999999,3,35847315.75,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2019-04,969483.43,2,36816799.18,Public Amenities
+agy_0071,Amritsar Municipal Corporation,Punjab,2019-05,788943.91,3,37605743.089999996,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2015-06,961889.31,1,961889.31,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2015-08,980465.21,1,1942354.52,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2015-09,1867412.9700000002,2,3809767.49,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2015-10,1176282.49,3,4986049.98,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2016-01,2282781.01,3,7268830.99,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2016-06,1233038.7,2,8501869.69,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2016-09,1042934.6699999999,3,9544804.36,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2016-10,3515770.44,1,13060574.8,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2016-12,2066408.1400000001,2,15126982.94,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-02,1840313.9500000002,3,16967296.89,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-03,1440913.42,2,18408210.31,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-06,2114510.7199999997,3,20522721.03,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-07,751259.8,1,21273980.83,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-08,1787086.26,2,23061067.09,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-09,1478645.74,1,24539712.83,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-11,1386447.0100000002,3,25926159.84,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2017-12,2063134.0299999998,2,27989293.87,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2018-01,2089204.03,3,30078497.9,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2018-03,2314240.75,3,32392738.65,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2018-07,1237017.45,1,33629756.1,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2018-11,989144.22,2,34618900.32,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2018-12,2098607.81,2,36717508.13,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2019-02,2058833.06,1,38776341.19,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2019-04,1915016.33,2,40691357.52,Public Amenities
+agy_0072,Bhatinda Rural Development Agency,Punjab,2019-05,2263102.39,3,42954459.91,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-06,3895096.62,1,3895096.62,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-07,2355401.87,2,6250498.49,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-08,1592470.48,2,7842968.970000001,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-09,3136851.22,1,10979820.190000001,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-10,1555500.5,1,12535320.690000001,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-11,1759493.0899999999,3,14294813.780000001,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2015-12,885343.45,1,15180157.23,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-01,1854629.88,2,17034787.11,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-03,1270863.28,1,18305650.39,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-05,1857379.39,1,20163029.78,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-06,1945898.99,1,22108928.77,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-07,2078163.71,2,24187092.48,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-08,2510774.77,2,26697867.25,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-09,1156766.31,1,27854633.56,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-10,1530815.28,3,29385448.84,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-11,1468773.68,1,30854222.52,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2016-12,1978188.13,3,32832410.65,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-03,1611574.25,1,34443984.9,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-04,1995419.97,3,36439404.87,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-07,2227619.15,1,38667024.019999996,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-08,2356713.31,2,41023737.33,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-10,1907518.6600000001,2,42931255.99,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-11,1566207.18,2,44497463.17,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2017-12,2346318.71,3,46843781.88,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-01,2062513.86,1,48906295.74,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-02,1729911.79,1,50636207.53,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-03,1415718.8900000001,3,52051926.42,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-04,1888882.34,1,53940808.76,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-05,3283382.22,1,57224190.980000004,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-07,2400373.1399999997,2,59624564.12,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-08,2098319.08,3,61722883.2,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-09,1383948.72,3,63106831.92,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-10,2269499.74,3,65376331.66,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-11,1728611.03,3,67104942.69,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2018-12,1418854.0,1,68523796.69,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2019-01,2546448.69,2,71070245.38,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2019-03,2594105.25,3,73664350.63,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2019-04,2435621.8,2,76099972.43,Public Amenities
+agy_0073,Faridkot Public Works Department,Punjab,2019-05,1238054.93,1,77338027.36,Public Amenities
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2015-07,1142838.8399999999,3,1142838.8399999999,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2015-08,1174543.19,2,2317382.03,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2015-09,1054542.72,2,3371924.75,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2015-10,1881713.3900000001,2,5253638.14,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2015-11,1564997.98,3,6818636.12,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2016-02,1177150.8399999999,2,7995786.96,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2016-04,1231338.86,3,9227125.82,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2016-06,1762428.54,2,10989554.36,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2016-10,1775635.15,1,12765189.51,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2016-11,1374255.28,3,14139444.79,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-01,705936.44,2,14845381.23,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-02,1635288.73,3,16480669.959999999,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-04,895099.43,1,17375769.39,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-05,1545991.28,1,18921760.67,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-06,1219425.15,3,20141185.82,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-07,1386974.68,3,21528160.5,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-08,1293761.88,3,22821922.38,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-09,908601.72,2,23730524.1,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-10,1106206.73,3,24836730.83,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2017-11,1146140.34,3,25982871.169999998,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-01,1234418.58,2,27217289.75,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-02,1572567.98,2,28789857.73,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-04,1033384.6100000001,3,29823242.34,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-05,1588170.77,2,31411413.11,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-07,1223156.73,1,32634569.84,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-08,1078264.75,2,33712834.59,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-09,1947892.39,2,35660726.98,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-10,1850899.69,1,37511626.67,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2018-11,1225100.37,1,38736727.04,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2019-01,3310881.94,1,42047608.98,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2019-04,1430957.43,3,43478566.41,Construction
+agy_0074,Faridkot(Sc) Rural Development Agency,Punjab,2019-05,1355011.49,2,44833577.9,Construction
+agy_0075,Firozpur Rural Development Agency,Punjab,2015-06,989651.62,1,989651.62,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2015-07,741195.82,1,1730847.44,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2015-08,1357154.05,3,3088001.49,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2015-09,2425347.01,1,5513348.5,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2015-11,2213864.67,3,7727213.17,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-01,1573572.6600000001,3,9300785.83,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-03,970330.99,2,10271116.82,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-05,1004154.4,2,11275271.22,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-06,2081156.46,3,13356427.68,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-07,2918202.5100000002,4,16274630.190000001,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-09,2609996.1,3,18884626.29,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-10,1479546.58,3,20364172.87,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-11,949130.95,3,21313303.82,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2016-12,4034014.1900000004,2,25347318.01,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-02,1049938.17,1,26397256.18,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-03,1356694.67,2,27753950.85,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-05,2684978.4699999997,5,30438929.32,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-06,1065947.3900000001,2,31504876.71,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-07,971920.1699999999,3,32476796.88,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-08,1123633.4,2,33600430.28,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-09,3271531.8000000003,6,36871962.08,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2017-10,2170630.93,2,39042593.01,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-02,3520697.84,3,42563290.85,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-03,1559390.68,3,44122681.53,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-04,1279508.1800000002,2,45402189.71,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-05,1273692.17,3,46675881.88,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-06,2502436.4699999997,4,49178318.35,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-07,1106476.57,2,50284794.92,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-08,3125464.65,6,53410259.57,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-09,2834441.05,6,56244700.62,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-10,2475044.1,6,58719744.72,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-11,1203755.29,3,59923500.01,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2018-12,1281286.86,1,61204786.87,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2019-02,1444321.53,1,62649108.4,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2019-04,2516179.3200000003,4,65165287.72,Roads
+agy_0075,Firozpur Rural Development Agency,Punjab,2019-05,1152947.1,3,66318234.82,Roads
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2015-06,1256749.6400000001,2,1256749.6400000001,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2015-08,2041151.54,3,3297901.18,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2015-12,1742959.3800000001,3,5040860.5600000005,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2016-03,1348365.14,2,6389225.7,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2016-07,1360533.3900000001,3,7749759.09,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2016-12,1814904.83,3,9564663.92,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2017-06,1025976.53,3,10590640.450000001,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2017-10,2125705.25,2,12716345.7,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2018-03,1379421.19,3,14095766.89,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2018-04,1423608.61,3,15519375.5,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2018-09,1514668.22,2,17034043.72,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2018-11,1820840.43,1,18854884.15,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2019-01,1387912.51,3,20242796.66,Irrigation
+agy_0076,Gurdaspur Gram Panchayat,Punjab,2019-02,2662170.34,1,22904967.0,Irrigation
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2016-02,1101769.36,1,1101769.36,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2016-04,910554.69,1,2012324.05,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2017-02,1559478.74,3,3571802.79,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2017-04,1349091.56,3,4920894.35,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2017-05,2339323.81,1,7260218.16,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2017-07,1681336.5,2,8941554.66,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2017-08,2067249.77,3,11008804.43,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2018-03,2033009.41,3,13041813.84,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2018-04,1624359.17,3,14666173.01,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2018-05,1989982.52,2,16656155.53,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2018-06,2760813.61,1,19416969.14,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2018-09,1887953.37,1,21304922.509999998,Public Amenities
+agy_0077,Hoshiarpur(Sc) District Authority,Punjab,2018-11,1663208.23,3,22968130.74,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2015-08,893071.42,2,893071.42,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2015-09,1002493.45,1,1895564.87,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2015-10,1666198.3900000001,3,3561763.2600000002,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2015-11,1187126.1600000001,2,4748889.42,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2016-01,965725.4600000001,2,5714614.880000001,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2016-07,1360487.04,3,7075101.92,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2016-10,1823791.92,1,8898893.84,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2017-02,841859.8200000001,2,9740753.66,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2017-03,1719723.6,3,11460477.26,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2017-07,1758794.95,2,13219272.21,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2017-09,992199.12,2,14211471.33,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2017-10,1221261.0499999998,2,15432732.38,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2017-11,1053379.95,2,16486112.33,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2018-06,1658527.42,3,18144639.75,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2018-10,2897581.79,1,21042221.54,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2018-11,1418854.64,3,22461076.18,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2018-12,989193.04,3,23450269.22,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2019-02,2562535.22,1,26012804.44,Public Amenities
+agy_0078,Jalandhar Municipal Corporation,Punjab,2019-03,1167433.92,3,27180238.36,Public Amenities
+agy_0079,Ludhiana Rural Development Agency,Punjab,2015-10,1061137.9,3,1061137.9,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2016-03,859300.51,1,1920438.41,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2016-05,978519.34,1,2898957.75,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2016-06,1094976.49,2,3993934.2399999998,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2016-08,1502269.4,2,5496203.64,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2016-10,775324.42,3,6271528.06,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2017-02,868568.8600000001,2,7140096.92,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2017-03,1119222.51,3,8259319.43,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2017-05,1078858.3,3,9338177.73,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2017-12,1062754.19,1,10400931.92,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2018-04,604753.94,1,11005685.86,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2018-05,1131440.95,2,12137126.809999999,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2018-06,753846.95,1,12890973.76,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2018-11,505566.72,1,13396540.48,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2019-03,803555.23,1,14200095.709999999,Roads
+agy_0079,Ludhiana Rural Development Agency,Punjab,2019-04,635709.51,1,14835805.219999999,Roads
+agy_0080,Ludhiana District Authority,Punjab,2016-11,1466413.94,2,1466413.94,Education
+agy_0080,Ludhiana District Authority,Punjab,2017-04,1025135.53,1,2491549.4699999997,Education
+agy_0080,Ludhiana District Authority,Punjab,2017-05,2048468.89,1,4540018.359999999,Education
+agy_0080,Ludhiana District Authority,Punjab,2017-06,3125123.79,2,7665142.15,Education
+agy_0080,Ludhiana District Authority,Punjab,2017-12,2386498.81,3,10051640.96,Education
+agy_0080,Ludhiana District Authority,Punjab,2018-01,2664313.51,1,12715954.469999999,Education
+agy_0080,Ludhiana District Authority,Punjab,2018-02,2381108.84,2,15097063.309999999,Education
+agy_0080,Ludhiana District Authority,Punjab,2018-11,1942762.39,1,17039825.7,Education
+agy_0080,Ludhiana District Authority,Punjab,2019-02,2184754.0100000002,2,19224579.71,Education
+agy_0081,Pathankot District Authority,Punjab,2015-11,1455907.1600000001,3,1455907.1600000001,Electrification
+agy_0081,Pathankot District Authority,Punjab,2015-12,2048475.44,2,3504382.6,Electrification
+agy_0081,Pathankot District Authority,Punjab,2016-02,2107420.36,1,5611802.96,Electrification
+agy_0081,Pathankot District Authority,Punjab,2016-04,1243973.95,1,6855776.91,Electrification
+agy_0081,Pathankot District Authority,Punjab,2016-11,1177177.63,1,8032954.54,Electrification
+agy_0081,Pathankot District Authority,Punjab,2017-01,1248908.21,1,9281862.75,Electrification
+agy_0081,Pathankot District Authority,Punjab,2017-02,1444209.38,3,10726072.129999999,Electrification
+agy_0081,Pathankot District Authority,Punjab,2017-03,1585297.9300000002,2,12311370.06,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-01,2070728.95,1,14382099.01,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-03,1899281.1199999999,2,16281380.129999999,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-04,1238652.55,3,17520032.68,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-05,2066860.1,1,19586892.78,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-07,1189223.47,1,20776116.25,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-10,1640691.79,2,22416808.04,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-11,1932766.67,3,24349574.71,Electrification
+agy_0081,Pathankot District Authority,Punjab,2018-12,1916860.75,1,26266435.46,Electrification
+agy_0081,Pathankot District Authority,Punjab,2019-01,2438364.91,3,28704800.37,Electrification
+agy_0081,Pathankot District Authority,Punjab,2019-04,1700166.13,3,30404966.5,Electrification
+agy_0082,Patiala Gram Panchayat,Punjab,2015-07,1270314.54,3,1270314.54,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2015-10,1380680.54,3,2650995.08,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2015-11,2072342.0499999998,2,4723337.13,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2015-12,1575941.65,1,6299278.779999999,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-01,1523721.13,2,7822999.91,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-02,880478.9299999999,3,8703478.84,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-03,1624880.77,1,10328359.61,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-04,1505206.52,3,11833566.129999999,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-05,1193615.6800000002,2,13027181.81,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-06,1084814.08,1,14111995.89,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-07,1895220.85,3,16007216.74,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-09,1192427.21,2,17199643.95,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-10,1381225.45,2,18580869.4,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2016-12,2084764.99,1,20665634.39,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-03,1725406.31,3,22391040.7,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-04,1687876.89,3,24078917.59,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-05,1262599.6400000001,2,25341517.23,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-06,1812492.25,2,27154009.48,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-07,1432926.01,2,28586935.49,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-08,2130545.3,1,30717480.79,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-09,2415938.04,1,33133418.83,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-10,1256463.84,3,34389882.67,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-11,1825472.94,1,36215355.61,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2017-12,1329083.96,3,37544439.57,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-01,1708511.55,1,39252951.12,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-05,1395636.37,1,40648587.49,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-06,1126736.39,2,41775323.88,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-08,1411347.71,1,43186671.59,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-10,1154798.3599999999,2,44341469.95,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-11,1154492.88,1,45495962.83,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2018-12,1578155.52,2,47074118.35,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2019-02,2813214.3600000003,2,49887332.71,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2019-03,1157393.53,2,51044726.24,Roads
+agy_0082,Patiala Gram Panchayat,Punjab,2019-05,1051884.05,1,52096610.29,Roads
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2015-06,1651169.96,2,1651169.96,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2015-08,1211658.42,1,2862828.38,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2015-09,1398032.66,3,4260861.04,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2015-10,1662412.3199999998,3,5923273.359999999,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2015-11,1406910.53,3,7330183.89,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-01,1432190.73,1,8762374.62,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-02,1843997.18,2,10606371.799999999,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-04,1831336.95,1,12437708.75,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-06,1237279.6,2,13674988.35,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-07,1443563.87,2,15118552.219999999,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-09,1147406.77,2,16265958.99,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-10,2457328.78,1,18723287.77,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2016-12,934846.7,2,19658134.47,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-01,1696250.96,3,21354385.43,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-03,1259542.93,2,22613928.36,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-04,1757447.38,2,24371375.74,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-05,1018238.08,2,25389613.82,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-06,1714922.71,3,27104536.53,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-07,1295258.69,2,28399795.22,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-08,945635.7,2,29345430.919999998,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-10,1839313.0499999998,3,31184743.97,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2017-11,1148348.1600000001,3,32333092.13,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2018-01,1454875.8499999999,2,33787967.98,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2018-02,1679596.7200000002,2,35467564.7,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2018-04,1816872.39,1,37284437.089999996,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2018-09,1378331.4,2,38662768.49,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2018-10,2054012.01,2,40716780.5,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2018-11,1906278.36,1,42623058.86,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2019-01,1317701.29,1,43940760.15,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2019-02,1908073.0,3,45848833.15,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2019-03,1830724.6400000001,3,47679557.79,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2019-04,1914223.71,1,49593781.5,Public Amenities
+agy_0083,Anandpur Sahib Nagar Panchayat,Punjab,2019-05,673063.29,1,50266844.79,Public Amenities
+agy_0084,Sangrur Nagar Panchayat,Punjab,2015-10,1754382.1099999999,2,1754382.1099999999,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2015-11,1498460.92,3,3252843.03,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2015-12,1315231.69,1,4568074.72,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2016-02,1174161.08,3,5742235.8,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2016-05,1311838.33,1,7054074.13,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2016-06,1372824.81,3,8426898.94,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2016-10,1024421.1699999999,2,9451320.11,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2016-12,1374804.54,3,10826124.65,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-02,911912.96,1,11738037.61,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-03,1394405.23,2,13132442.84,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-04,1045262.3500000001,2,14177705.19,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-05,844937.5,3,15022642.69,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-06,1352066.26,1,16374708.95,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-07,1114993.05,2,17489702.0,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-08,1581260.64,1,19070962.64,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-09,1782368.19,1,20853330.83,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-10,2819841.82,1,23673172.65,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-11,907425.3800000001,2,24580598.03,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2017-12,619100.86,1,25199698.89,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2018-02,1296352.18,1,26496051.07,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2018-03,895517.8,2,27391568.87,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2018-06,833863.23,1,28225432.099999998,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2018-07,1410803.02,3,29636235.12,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2019-01,1377732.99,2,31013968.11,Irrigation
+agy_0084,Sangrur Nagar Panchayat,Punjab,2019-05,1224473.36,1,32238441.47,Irrigation
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2015-10,1160622.81,3,1160622.81,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2015-11,1356049.32,2,2516672.13,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2015-12,983759.6799999999,3,3500431.81,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2016-01,799612.05,2,4300043.86,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2016-03,1069915.63,3,5369959.49,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2016-04,1105653.3,3,6475612.79,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2016-05,1555805.21,1,8031418.0,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2016-12,986942.8,1,9018360.8,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2017-02,1937077.96,3,10955438.76,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2017-04,1439525.2,2,12394963.96,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2017-07,1266482.37,1,13661446.33,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2017-12,1166523.08,2,14827969.41,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2018-02,1163950.25,3,15991919.66,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2018-06,1279002.01,2,17270921.67,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2018-07,946147.2,2,18217068.87,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2018-10,1414903.26,3,19631972.13,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2018-11,1028975.43,1,20660947.56,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2019-01,1053934.81,2,21714882.37,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2019-02,993724.1100000001,2,22708606.48,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2019-03,2022042.96,3,24730649.44,Roads
+agy_0085,Khadoor Sahib Gram Panchayat,Punjab,2019-04,1257124.76,3,25987774.2,Roads
+agy_0086,Tarn Taran Public Works Department,Punjab,2015-10,2044293.12,2,2044293.12,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2015-11,2409228.29,1,4453521.41,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2016-02,1405598.18,1,5859119.59,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2016-04,2532958.92,1,8392078.51,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2016-10,1666229.51,2,10058308.02,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2016-11,2389208.56,2,12447516.58,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2017-01,2101337.29,3,14548853.870000001,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2017-06,3515966.19,1,18064820.06,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2017-09,1682209.58,2,19747029.64,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2017-12,2016950.98,2,21763980.62,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2018-01,3056449.76,2,24820430.38,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2018-03,950563.86,1,25770994.24,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2018-06,1790691.92,1,27561686.16,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2018-07,1660453.57,3,29222139.73,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2018-08,2289489.71,2,31511629.439999998,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2018-10,1376934.99,2,32888564.43,Electrification
+agy_0086,Tarn Taran Public Works Department,Punjab,2019-05,3565194.75,3,36453759.18,Electrification

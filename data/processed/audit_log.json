@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin-1",
+    "action": "approved_notice",
+    "case_id": "CL-1001",
+    "detail": "Notice approved and sent without edits"
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "agency",
+    "actor_id": "agy_0053",
+    "action": "submitted_explanation",
+    "case_id": "CL-1001",
+    "detail": "Agency submitted an explanation with 3 supporting document(s)."
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "mp",
+    "actor_id": "mp-1",
+    "action": "verified_work",
+    "case_id": "CL-1001",
+    "detail": "MP marked underlying work as 'verified' -- Site visit confirmed all three works are physically complete."
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin-1",
+    "action": "case_resolved",
+    "case_id": "CL-1001",
+    "detail": "Explanation and MP verification are consistent with the observed spending pattern. Closing case."
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin-1",
+    "action": "approved_notice",
+    "case_id": "CL-1002",
+    "detail": "Notice approved and sent without edits"
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin-1",
+    "action": "approved_notice",
+    "case_id": "CL-1004",
+    "detail": "Notice approved and sent without edits"
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "agency",
+    "actor_id": "agy_0052",
+    "action": "submitted_explanation",
+    "case_id": "CL-1004",
+    "detail": "Agency submitted an explanation with 0 supporting document(s)."
+  },
+  {
+    "timestamp": "2026-09-11T18:56:30+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin-1",
+    "action": "case_escalated",
+    "case_id": "CL-1004",
+    "detail": "Explanation lacks supporting documentation for a spike of this size. Escalating for a physical audit."
+  },
+  {
+    "timestamp": "2026-09-11T20:16:12+00:00",
+    "actor_role": "mp",
+    "actor_id": "mp.odisha@fundwatch.demo",
+    "action": "verified_work",
+    "case_id": "CL-1002",
+    "detail": "MP marked underlying work as 'needs_clarification'"
+  },
+  {
+    "timestamp": "2026-09-11T20:16:25+00:00",
+    "actor_role": "mp",
+    "actor_id": "mp.odisha@fundwatch.demo",
+    "action": "verified_work",
+    "case_id": "CL-1004",
+    "detail": "MP marked underlying work as 'needs_clarification'"
+  },
+  {
+    "timestamp": "2026-09-11T20:18:24+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin@fundwatch.demo",
+    "action": "case_monitoring",
+    "case_id": "CL-1002",
+    "detail": "not accepted,"
+  },
+  {
+    "timestamp": "2026-09-11T20:23:54+00:00",
+    "actor_role": "admin",
+    "actor_id": "admin@fundwatch.demo",
+    "action": "rejected_notice",
+    "case_id": "CL-1003",
+    "detail": "Admin rejected the draft -- case dismissed without contacting agency"
+  }
+]

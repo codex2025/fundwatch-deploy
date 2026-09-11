@@ -1,0 +1,307 @@
+[
+  {
+    "case_id": "CL-1001",
+    "agency_id": "agy_0053",
+    "agency_name": "Kalahandi Public Works Department",
+    "state": "Odisha",
+    "status": "resolved",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T18:56:30+00:00",
+    "trigger": {
+      "reason": "distribution_outlier",
+      "top_signal": "iqr_ratio",
+      "previous_risk_score": 8.4,
+      "new_risk_score": 100.0,
+      "risk_delta": 91.6,
+      "baseline_violated": "Distribution spread relative to this agency's own IQR fence",
+      "year_month": "2019-03",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Kalahandi Public Works Department\nAgency ID: agy_0053\nRisk Score: 100 -- Critical Red Flag\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +794% relative to this agency's own baseline\n- Historical monthly baseline: Rs 1,940,037\n- Current monthly expenditure: Rs 19,590,608\n- 3 work(s) contributed to this month's disbursement\n- Category most affected: Public Amenities\n- Baseline violated: Distribution spread relative to this agency's own IQR fence\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "approved",
+      "edited_by_admin": false,
+      "sent_at": "2026-09-11T18:56:30+00:00",
+      "deadline": "2026-09-18T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": "Three drainage and street-lighting works reached financial completion in the same reporting month, which is why disbursement is concentrated here. Completion certificates and geo-tagged photographs are attached.",
+      "documents": [
+        "completion_certificate.pdf",
+        "geo_tagged_photos.zip",
+        "measurement_book.pdf"
+      ],
+      "submitted_at": "2026-09-11T18:56:30+00:00"
+    },
+    "mp_verification": {
+      "status": "verified",
+      "verified_by": "mp-1",
+      "verified_at": "2026-09-11T18:56:30+00:00",
+      "notes": "Site visit confirmed all three works are physically complete."
+    },
+    "resolution": {
+      "outcome": "resolved",
+      "resolved_by": "admin-1",
+      "resolved_at": "2026-09-11T18:56:30+00:00",
+      "notes": "Explanation and MP verification are consistent with the observed spending pattern. Closing case."
+    }
+  },
+  {
+    "case_id": "CL-1002",
+    "agency_id": "agy_0038",
+    "agency_name": "Bargarh Gram Panchayat",
+    "state": "Odisha",
+    "status": "monitoring",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T20:18:24+00:00",
+    "trigger": {
+      "reason": "distribution_outlier",
+      "top_signal": "iqr_ratio",
+      "previous_risk_score": 0.0,
+      "new_risk_score": 99.6,
+      "risk_delta": 99.6,
+      "baseline_violated": "Distribution spread relative to this agency's own IQR fence",
+      "year_month": "2017-08",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Bargarh Gram Panchayat\nAgency ID: agy_0038\nRisk Score: 100 -- Critical Red Flag\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +1038% relative to this agency's own baseline\n- Historical monthly baseline: Rs 834,326\n- Current monthly expenditure: Rs 9,557,049\n- 3 work(s) contributed to this month's disbursement\n- Category most affected: Public Amenities\n- Baseline violated: Distribution spread relative to this agency's own IQR fence\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "approved",
+      "edited_by_admin": false,
+      "sent_at": "2026-09-01T18:56:30+00:00",
+      "deadline": "2026-09-08T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": null,
+      "documents": [],
+      "submitted_at": null
+    },
+    "mp_verification": {
+      "status": "needs_clarification",
+      "verified_by": "mp.odisha@fundwatch.demo",
+      "verified_at": "2026-09-11T20:16:12+00:00",
+      "notes": ""
+    },
+    "resolution": {
+      "outcome": "monitoring",
+      "resolved_by": "admin@fundwatch.demo",
+      "resolved_at": "2026-09-11T20:18:24+00:00",
+      "notes": "not accepted,"
+    }
+  },
+  {
+    "case_id": "CL-1003",
+    "agency_id": "agy_0014",
+    "agency_name": "Kottayam Panchayat Samiti",
+    "state": "Kerala",
+    "status": "resolved",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T20:23:54+00:00",
+    "trigger": {
+      "reason": "distribution_outlier",
+      "top_signal": "iqr_ratio",
+      "previous_risk_score": 0.0,
+      "new_risk_score": 95.2,
+      "risk_delta": 95.2,
+      "baseline_violated": "Distribution spread relative to this agency's own IQR fence",
+      "year_month": "2017-08",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Kottayam Panchayat Samiti\nAgency ID: agy_0014\nRisk Score: 95 -- Critical Red Flag\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +655% relative to this agency's own baseline\n- Historical monthly baseline: Rs 1,745,489\n- Current monthly expenditure: Rs 13,529,557\n- 3 work(s) contributed to this month's disbursement\n- Category most affected: Public Amenities\n- Baseline violated: Distribution spread relative to this agency's own IQR fence\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "rejected",
+      "edited_by_admin": false,
+      "sent_at": null,
+      "deadline": "2026-09-18T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": null,
+      "documents": [],
+      "submitted_at": null
+    },
+    "mp_verification": {
+      "status": "pending",
+      "verified_by": null,
+      "verified_at": null,
+      "notes": null
+    },
+    "resolution": {
+      "outcome": "dismissed",
+      "resolved_by": "admin@fundwatch.demo",
+      "resolved_at": "2026-09-11T20:23:54+00:00",
+      "notes": "Notice rejected by admin prior to sending -- not pursued."
+    }
+  },
+  {
+    "case_id": "CL-1004",
+    "agency_id": "agy_0052",
+    "agency_name": "Kalahandi District Authority",
+    "state": "Odisha",
+    "status": "escalated",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T20:16:25+00:00",
+    "trigger": {
+      "reason": "cost_outlier",
+      "top_signal": "modified_z_score",
+      "previous_risk_score": 1.0,
+      "new_risk_score": 87.5,
+      "risk_delta": 86.5,
+      "baseline_violated": "Historical cost distribution (Modified Z-Score / MAD)",
+      "year_month": "2018-09",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Kalahandi District Authority\nAgency ID: agy_0052\nRisk Score: 88 -- Critical Red Flag\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +693% relative to this agency's own baseline\n- Historical monthly baseline: Rs 1,392,930\n- Current monthly expenditure: Rs 9,791,749\n- 3 work(s) contributed to this month's disbursement\n- Category most affected: Roads\n- Baseline violated: Historical cost distribution (Modified Z-Score / MAD)\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "approved",
+      "edited_by_admin": false,
+      "sent_at": "2026-09-11T18:56:30+00:00",
+      "deadline": "2026-09-18T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": "Spending reflects routine year-end sanctions across multiple ongoing works.",
+      "documents": [],
+      "submitted_at": "2026-09-11T18:56:30+00:00"
+    },
+    "mp_verification": {
+      "status": "needs_clarification",
+      "verified_by": "mp.odisha@fundwatch.demo",
+      "verified_at": "2026-09-11T20:16:25+00:00",
+      "notes": ""
+    },
+    "resolution": {
+      "outcome": "escalated",
+      "resolved_by": "admin-1",
+      "resolved_at": "2026-09-11T18:56:30+00:00",
+      "notes": "Explanation lacks supporting documentation for a spike of this size. Escalating for a physical audit."
+    }
+  },
+  {
+    "case_id": "CL-1005",
+    "agency_id": "agy_0024",
+    "agency_name": "Palakkad Public Works Department",
+    "state": "Kerala",
+    "status": "notice_drafted",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T18:56:30+00:00",
+    "trigger": {
+      "reason": "distribution_outlier",
+      "top_signal": "iqr_ratio",
+      "previous_risk_score": 5.6,
+      "new_risk_score": 85.0,
+      "risk_delta": 79.4,
+      "baseline_violated": "Distribution spread relative to this agency's own IQR fence",
+      "year_month": "2018-06",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Palakkad Public Works Department\nAgency ID: agy_0024\nRisk Score: 85 -- High Suspicion\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +1122% relative to this agency's own baseline\n- Historical monthly baseline: Rs 1,867,298\n- Current monthly expenditure: Rs 22,144,772\n- 3 work(s) contributed to this month's disbursement\n- Category most affected: Construction\n- Baseline violated: Distribution spread relative to this agency's own IQR fence\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "draft",
+      "edited_by_admin": false,
+      "sent_at": null,
+      "deadline": "2026-09-18T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": null,
+      "documents": [],
+      "submitted_at": null
+    },
+    "mp_verification": {
+      "status": "pending",
+      "verified_by": null,
+      "verified_at": null,
+      "notes": null
+    },
+    "resolution": {
+      "outcome": null,
+      "resolved_by": null,
+      "resolved_at": null,
+      "notes": null
+    }
+  },
+  {
+    "case_id": "CL-1006",
+    "agency_id": "agy_0016",
+    "agency_name": "Kozhikode District Authority",
+    "state": "Kerala",
+    "status": "notice_drafted",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T18:56:30+00:00",
+    "trigger": {
+      "reason": "distribution_outlier",
+      "top_signal": "iqr_ratio",
+      "previous_risk_score": 20.0,
+      "new_risk_score": 85.0,
+      "risk_delta": 65.0,
+      "baseline_violated": "Distribution spread relative to this agency's own IQR fence",
+      "year_month": "2018-04",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Kozhikode District Authority\nAgency ID: agy_0016\nRisk Score: 85 -- High Suspicion\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +1655% relative to this agency's own baseline\n- Historical monthly baseline: Rs 1,626,637\n- Current monthly expenditure: Rs 28,184,197\n- 3 work(s) contributed to this month's disbursement\n- Category most affected: Construction\n- Baseline violated: Distribution spread relative to this agency's own IQR fence\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "draft",
+      "edited_by_admin": false,
+      "sent_at": null,
+      "deadline": "2026-09-18T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": null,
+      "documents": [],
+      "submitted_at": null
+    },
+    "mp_verification": {
+      "status": "pending",
+      "verified_by": null,
+      "verified_at": null,
+      "notes": null
+    },
+    "resolution": {
+      "outcome": null,
+      "resolved_by": null,
+      "resolved_at": null,
+      "notes": null
+    }
+  },
+  {
+    "case_id": "CL-1007",
+    "agency_id": "agy_0059",
+    "agency_name": "Keonjhar(St) Nagar Panchayat",
+    "state": "Odisha",
+    "status": "notice_drafted",
+    "created_at": "2026-09-11T18:56:30+00:00",
+    "updated_at": "2026-09-11T18:56:30+00:00",
+    "trigger": {
+      "reason": "cost_outlier",
+      "top_signal": "modified_z_score",
+      "previous_risk_score": 6.8,
+      "new_risk_score": 71.2,
+      "risk_delta": 64.4,
+      "baseline_violated": "Historical cost distribution (Modified Z-Score / MAD)",
+      "year_month": "2017-07",
+      "detected_at": "2026-09-11T18:56:30+00:00"
+    },
+    "notice": {
+      "draft_text": "FUNDWATCH -- EXPLANATION REQUEST\n\nTo: Keonjhar(St) Nagar Panchayat\nAgency ID: agy_0059\nRisk Score: 71 -- High Suspicion\nDate: 2026-09-11\n\nSubject: Request for explanation regarding unusual expenditure pattern\n\nFundWatch has identified a deviation from this agency's established spending baseline.\n\nDetected observations:\n- Spending velocity changed by +147% relative to this agency's own baseline\n- Historical monthly baseline: Rs 1,158,573\n- Current monthly expenditure: Rs 2,928,017\n- 1 work(s) contributed to this month's disbursement\n- Category most affected: Roads\n- Baseline violated: Historical cost distribution (Modified Z-Score / MAD)\n\nClarification requested: Please provide an explanation and supporting documentation for the above expenditure pattern.\n\nResponse deadline: 2026-09-18\n\nThis notice reflects a statistical deviation only. It is not a finding of wrongdoing.",
+      "status": "draft",
+      "edited_by_admin": false,
+      "sent_at": null,
+      "deadline": "2026-09-18T18:56:30+00:00"
+    },
+    "agency_response": {
+      "text": null,
+      "documents": [],
+      "submitted_at": null
+    },
+    "mp_verification": {
+      "status": "pending",
+      "verified_by": null,
+      "verified_at": null,
+      "notes": null
+    },
+    "resolution": {
+      "outcome": null,
+      "resolved_by": null,
+      "resolved_at": null,
+      "notes": null
+    }
+  }
+]

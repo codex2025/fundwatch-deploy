@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Sora:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 font-sans antialiased selection:bg-sky-500 selection:text-white;
+    background:
+      radial-gradient(1200px 600px at 12% -10%, rgba(56,189,248,0.07), transparent 60%),
+      radial-gradient(1000px 500px at 100% 0%, rgba(168,85,247,0.06), transparent 55%),
+      #020617;
+  }
+
+  ::selection {
+    @apply bg-sky-500/90 text-white;
+  }
+
+  :focus-visible {
+    outline: 2px solid rgba(56, 189, 248, 0.7);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  h1, h2, h3 {
+    @apply font-display;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer components {
+  /* Card surfaces -- upgrading this one class re-skins every screen that uses it */
+  .glass-card {
+    @apply bg-surface/90 backdrop-blur-md border border-surface-border rounded-2xl shadow-card;
+  }
+
+  .glass-card-hover {
+    @apply glass-card hover:border-surface-borderHover hover:shadow-card-hover transition-all duration-200;
+  }
+
+  .glass-pill {
+    @apply bg-surface-raised/80 backdrop-blur-sm border border-surface-border rounded-full;
+  }
+
+  .page-eyebrow {
+    @apply text-[11px] font-bold uppercase tracking-[0.14em] text-sky-400/90;
+  }
+
+  .page-title {
+    @apply font-display font-bold text-white tracking-tight;
+  }
+
+  .section-label {
+    @apply text-[11px] font-bold uppercase tracking-wider text-slate-500;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center gap-1.5 rounded-xl text-xs font-semibold
+      transition-all duration-200 disabled:opacity-50 disabled:pointer-events-none
+      active:scale-[0.98] min-h-[36px] px-3.5 py-2;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-gradient text-white shadow-glow hover:brightness-110;
+  }
+
+  .btn-secondary {
+    @apply btn bg-surface-raised text-slate-200 border border-surface-border hover:border-surface-borderHover hover:bg-white/[0.04];
+  }
+
+  .btn-ghost {
+    @apply btn bg-transparent text-slate-400 hover:text-slate-100 hover:bg-white/[0.05];
+  }
+
+  .btn-danger {
+    @apply btn bg-red-500/10 text-red-300 border border-red-500/30 hover:bg-red-500/20;
+  }
+
+  .btn-success {
+    @apply btn bg-emerald-500/10 text-emerald-300 border border-emerald-500/30 hover:bg-emerald-500/20;
+  }
+
+  /* Form fields */
+  .input-field {
+    @apply w-full bg-surface-sunken border border-surface-border rounded-xl px-3 py-2.5
+      text-xs text-slate-200 placeholder-slate-600 transition-colors duration-200
+      focus:outline-none focus:border-sky-500/70 focus:ring-2 focus:ring-sky-500/15;
+  }
+
+  /* Stat tiles used across dashboards */
+  .stat-tile {
+    @apply glass-card p-4 sm:p-5;
+  }
+
+  .stat-value {
+    @apply font-display font-bold text-2xl sm:text-3xl text-white tabular-nums tracking-tight;
+  }
+
+  .stat-label {
+    @apply text-[11px] uppercase tracking-wide text-slate-500 font-semibold;
+  }
+
+  /* Nav pill group (top nav, tab bars) */
+  .nav-pill-group {
+    @apply flex items-center gap-1 bg-surface/90 backdrop-blur-md p-1 rounded-xl border border-surface-border;
+  }
+
+  .nav-pill {
+    @apply flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap
+      transition-all duration-200 text-slate-400 hover:text-slate-200 hover:bg-white/[0.05];
+  }
+
+  .nav-pill-active {
+    @apply bg-brand-gradient text-white shadow-glow;
+  }
+}
+
+/* Custom modern scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #070a13;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Animations */
+@keyframes pulse-subtle {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(1.02); }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 3s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
